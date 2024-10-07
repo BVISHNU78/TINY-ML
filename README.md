@@ -6,4 +6,4 @@ prediction of real time data from BMP280 sensor on raspberry pi 2  using RabbitM
 ![Screenshot 2024-10-07 095240](https://github.com/user-attachments/assets/6793882a-32ac-4069-9eb7-0f03385737cc)
 ![Screenshot 2024-10-07 095849](https://github.com/user-attachments/assets/7f305f86-f618-4bcc-8c43-5e4882cd315c)
 ![WhatsApp Image 2024-10-07 at 10 08 08 AM](https://github.com/user-attachments/assets/49122f06-2e37-41f1-af5a-898fbc4e7e2a)
-![WhatsApp Image 2024-10-07 at 10 07 53 AM](https://github.com/user-attachments/assets/de34dccd-06a0-4a0a-822e-50a25365de83)
+
