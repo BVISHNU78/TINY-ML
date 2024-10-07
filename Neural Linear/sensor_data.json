@@ -1,0 +1,5002 @@
+[
+    {
+        "temperature": 25.5,
+        "pressure": 990.79,
+        "timestamp": 1727440516.707932
+    },
+    {
+        "temperature": 21.07,
+        "pressure": 994.75,
+        "timestamp": 1727440516.7079387
+    },
+    {
+        "temperature": 29.35,
+        "pressure": 999.03,
+        "timestamp": 1727440516.7079432
+    },
+    {
+        "temperature": 22.25,
+        "pressure": 1019.61,
+        "timestamp": 1727440516.7079499
+    },
+    {
+        "temperature": 29.44,
+        "pressure": 995.39,
+        "timestamp": 1727440516.7079542
+    },
+    {
+        "temperature": 22.22,
+        "pressure": 997.85,
+        "timestamp": 1727440516.7079582
+    },
+    {
+        "temperature": 24.77,
+        "pressure": 1017.74,
+        "timestamp": 1727440516.7079625
+    },
+    {
+        "temperature": 26.47,
+        "pressure": 1004.03,
+        "timestamp": 1727440516.7079692
+    },
+    {
+        "temperature": 24.72,
+        "pressure": 992.57,
+        "timestamp": 1727440516.7079735
+    },
+    {
+        "temperature": 22.0,
+        "pressure": 1019.28,
+        "timestamp": 1727440516.7079782
+    },
+    {
+        "temperature": 20.39,
+        "pressure": 990.36,
+        "timestamp": 1727440516.7079813
+    },
+    {
+        "temperature": 20.42,
+        "pressure": 1001.62,
+        "timestamp": 1727440516.7079852
+    },
+    {
+        "temperature": 23.21,
+        "pressure": 996.25,
+        "timestamp": 1727440516.7079885
+    },
+    {
+        "temperature": 21.76,
+        "pressure": 992.46,
+        "timestamp": 1727440516.7079923
+    },
+    {
+        "temperature": 22.13,
+        "pressure": 996.29,
+        "timestamp": 1727440516.7079957
+    },
+    {
+        "temperature": 26.1,
+        "pressure": 1001.05,
+        "timestamp": 1727440516.7079995
+    },
+    {
+        "temperature": 21.22,
+        "pressure": 997.88,
+        "timestamp": 1727440516.7080038
+    },
+    {
+        "temperature": 20.12,
+        "pressure": 996.93,
+        "timestamp": 1727440516.7080083
+    },
+    {
+        "temperature": 25.32,
+        "pressure": 1005.05,
+        "timestamp": 1727440516.7080119
+    },
+    {
+        "temperature": 24.83,
+        "pressure": 1004.59,
+        "timestamp": 1727440516.7080154
+    },
+    {
+        "temperature": 26.24,
+        "pressure": 1000.85,
+        "timestamp": 1727440516.7080188
+    },
+    {
+        "temperature": 27.33,
+        "pressure": 1017.53,
+        "timestamp": 1727440516.7080224
+    },
+    {
+        "temperature": 26.33,
+        "pressure": 1019.75,
+        "timestamp": 1727440516.708026
+    },
+    {
+        "temperature": 27.38,
+        "pressure": 1019.56,
+        "timestamp": 1727440516.7080295
+    },
+    {
+        "temperature": 23.59,
+        "pressure": 1018.9,
+        "timestamp": 1727440516.708033
+    },
+    {
+        "temperature": 21.4,
+        "pressure": 990.6,
+        "timestamp": 1727440516.7080371
+    },
+    {
+        "temperature": 21.87,
+        "pressure": 1014.52,
+        "timestamp": 1727440516.7080407
+    },
+    {
+        "temperature": 21.51,
+        "pressure": 1007.4,
+        "timestamp": 1727440516.7080445
+    },
+    {
+        "temperature": 20.94,
+        "pressure": 1015.82,
+        "timestamp": 1727440516.708048
+    },
+    {
+        "temperature": 29.39,
+        "pressure": 1000.17,
+        "timestamp": 1727440516.708052
+    },
+    {
+        "temperature": 27.83,
+        "pressure": 1008.94,
+        "timestamp": 1727440516.7080553
+    },
+    {
+        "temperature": 25.34,
+        "pressure": 995.54,
+        "timestamp": 1727440516.708059
+    },
+    {
+        "temperature": 24.47,
+        "pressure": 1005.93,
+        "timestamp": 1727440516.7080624
+    },
+    {
+        "temperature": 23.17,
+        "pressure": 1005.3,
+        "timestamp": 1727440516.7080672
+    },
+    {
+        "temperature": 22.25,
+        "pressure": 996.41,
+        "timestamp": 1727440516.7080708
+    },
+    {
+        "temperature": 21.94,
+        "pressure": 1018.64,
+        "timestamp": 1727440516.7080743
+    },
+    {
+        "temperature": 23.98,
+        "pressure": 1009.87,
+        "timestamp": 1727440516.7080777
+    },
+    {
+        "temperature": 26.8,
+        "pressure": 1000.46,
+        "timestamp": 1727440516.708081
+    },
+    {
+        "temperature": 26.03,
+        "pressure": 1018.26,
+        "timestamp": 1727440516.7080848
+    },
+    {
+        "temperature": 21.42,
+        "pressure": 1004.57,
+        "timestamp": 1727440516.7080884
+    },
+    {
+        "temperature": 27.49,
+        "pressure": 1007.48,
+        "timestamp": 1727440516.708092
+    },
+    {
+        "temperature": 27.56,
+        "pressure": 1016.14,
+        "timestamp": 1727440516.708096
+    },
+    {
+        "temperature": 28.56,
+        "pressure": 1006.09,
+        "timestamp": 1727440516.7080998
+    },
+    {
+        "temperature": 20.84,
+        "pressure": 1016.22,
+        "timestamp": 1727440516.708103
+    },
+    {
+        "temperature": 20.83,
+        "pressure": 996.75,
+        "timestamp": 1727440516.7081065
+    },
+    {
+        "temperature": 23.35,
+        "pressure": 1009.81,
+        "timestamp": 1727440516.70811
+    },
+    {
+        "temperature": 24.29,
+        "pressure": 1019.49,
+        "timestamp": 1727440516.708114
+    },
+    {
+        "temperature": 28.99,
+        "pressure": 1019.73,
+        "timestamp": 1727440516.7081175
+    },
+    {
+        "temperature": 21.64,
+        "pressure": 1017.89,
+        "timestamp": 1727440516.7081213
+    },
+    {
+        "temperature": 21.02,
+        "pressure": 1016.07,
+        "timestamp": 1727440516.7081249
+    },
+    {
+        "temperature": 25.38,
+        "pressure": 1001.76,
+        "timestamp": 1727440516.70813
+    },
+    {
+        "temperature": 20.6,
+        "pressure": 1015.27,
+        "timestamp": 1727440516.7081335
+    },
+    {
+        "temperature": 23.38,
+        "pressure": 1019.1,
+        "timestamp": 1727440516.708137
+    },
+    {
+        "temperature": 29.74,
+        "pressure": 991.08,
+        "timestamp": 1727440516.708141
+    },
+    {
+        "temperature": 21.47,
+        "pressure": 1013.93,
+        "timestamp": 1727440516.7081447
+    },
+    {
+        "temperature": 23.22,
+        "pressure": 993.91,
+        "timestamp": 1727440516.7081485
+    },
+    {
+        "temperature": 29.14,
+        "pressure": 1002.4,
+        "timestamp": 1727440516.7081525
+    },
+    {
+        "temperature": 23.31,
+        "pressure": 1019.85,
+        "timestamp": 1727440516.7081559
+    },
+    {
+        "temperature": 20.82,
+        "pressure": 1019.11,
+        "timestamp": 1727440516.7081597
+    },
+    {
+        "temperature": 28.98,
+        "pressure": 1013.88,
+        "timestamp": 1727440516.7081628
+    },
+    {
+        "temperature": 29.49,
+        "pressure": 1007.86,
+        "timestamp": 1727440516.7081661
+    },
+    {
+        "temperature": 23.1,
+        "pressure": 1001.07,
+        "timestamp": 1727440516.7081702
+    },
+    {
+        "temperature": 21.5,
+        "pressure": 1017.13,
+        "timestamp": 1727440516.7081735
+    },
+    {
+        "temperature": 27.0,
+        "pressure": 1000.29,
+        "timestamp": 1727440516.7081773
+    },
+    {
+        "temperature": 27.1,
+        "pressure": 1013.61,
+        "timestamp": 1727440516.7081807
+    },
+    {
+        "temperature": 25.7,
+        "pressure": 990.08,
+        "timestamp": 1727440516.7081847
+    },
+    {
+        "temperature": 28.56,
+        "pressure": 1000.69,
+        "timestamp": 1727440516.708189
+    },
+    {
+        "temperature": 23.3,
+        "pressure": 1004.52,
+        "timestamp": 1727440516.708192
+    },
+    {
+        "temperature": 27.07,
+        "pressure": 1008.84,
+        "timestamp": 1727440516.7081952
+    },
+    {
+        "temperature": 25.64,
+        "pressure": 1014.89,
+        "timestamp": 1727440516.7081985
+    },
+    {
+        "temperature": 23.03,
+        "pressure": 1015.97,
+        "timestamp": 1727440516.708202
+    },
+    {
+        "temperature": 27.62,
+        "pressure": 1006.48,
+        "timestamp": 1727440516.7082067
+    },
+    {
+        "temperature": 27.39,
+        "pressure": 1016.16,
+        "timestamp": 1727440516.7082102
+    },
+    {
+        "temperature": 22.13,
+        "pressure": 1004.57,
+        "timestamp": 1727440516.7082136
+    },
+    {
+        "temperature": 26.72,
+        "pressure": 991.84,
+        "timestamp": 1727440516.7082171
+    },
+    {
+        "temperature": 21.67,
+        "pressure": 992.38,
+        "timestamp": 1727440516.7082205
+    },
+    {
+        "temperature": 25.44,
+        "pressure": 1005.61,
+        "timestamp": 1727440516.708224
+    },
+    {
+        "temperature": 26.53,
+        "pressure": 1014.18,
+        "timestamp": 1727440516.7082286
+    },
+    {
+        "temperature": 27.0,
+        "pressure": 1009.82,
+        "timestamp": 1727440516.7082322
+    },
+    {
+        "temperature": 25.8,
+        "pressure": 1010.44,
+        "timestamp": 1727440516.7082355
+    },
+    {
+        "temperature": 27.01,
+        "pressure": 999.84,
+        "timestamp": 1727440516.7082393
+    },
+    {
+        "temperature": 24.32,
+        "pressure": 1015.74,
+        "timestamp": 1727440516.7082427
+    },
+    {
+        "temperature": 24.1,
+        "pressure": 1000.91,
+        "timestamp": 1727440516.7082462
+    },
+    {
+        "temperature": 29.21,
+        "pressure": 1016.75,
+        "timestamp": 1727440516.7082505
+    },
+    {
+        "temperature": 24.12,
+        "pressure": 1012.93,
+        "timestamp": 1727440516.708254
+    },
+    {
+        "temperature": 28.27,
+        "pressure": 1002.88,
+        "timestamp": 1727440516.7082577
+    },
+    {
+        "temperature": 27.71,
+        "pressure": 995.41,
+        "timestamp": 1727440516.7082644
+    },
+    {
+        "temperature": 29.83,
+        "pressure": 995.71,
+        "timestamp": 1727440516.7082686
+    },
+    {
+        "temperature": 27.74,
+        "pressure": 1000.0,
+        "timestamp": 1727440516.7082722
+    },
+    {
+        "temperature": 24.54,
+        "pressure": 1008.84,
+        "timestamp": 1727440516.7082753
+    },
+    {
+        "temperature": 26.04,
+        "pressure": 1000.99,
+        "timestamp": 1727440516.708279
+    },
+    {
+        "temperature": 21.05,
+        "pressure": 1019.24,
+        "timestamp": 1727440516.708282
+    },
+    {
+        "temperature": 28.88,
+        "pressure": 999.54,
+        "timestamp": 1727440516.7082853
+    },
+    {
+        "temperature": 22.85,
+        "pressure": 1013.32,
+        "timestamp": 1727440516.7082896
+    },
+    {
+        "temperature": 22.03,
+        "pressure": 999.34,
+        "timestamp": 1727440516.708293
+    },
+    {
+        "temperature": 22.25,
+        "pressure": 996.2,
+        "timestamp": 1727440516.7082963
+    },
+    {
+        "temperature": 25.58,
+        "pressure": 1009.5,
+        "timestamp": 1727440516.7082996
+    },
+    {
+        "temperature": 25.22,
+        "pressure": 1001.54,
+        "timestamp": 1727440516.7083027
+    },
+    {
+        "temperature": 25.92,
+        "pressure": 994.29,
+        "timestamp": 1727440516.7083058
+    },
+    {
+        "temperature": 21.95,
+        "pressure": 1011.98,
+        "timestamp": 1727440516.7083092
+    },
+    {
+        "temperature": 22.01,
+        "pressure": 1019.22,
+        "timestamp": 1727440516.7083132
+    },
+    {
+        "temperature": 22.32,
+        "pressure": 1001.66,
+        "timestamp": 1727440516.7083163
+    },
+    {
+        "temperature": 23.03,
+        "pressure": 1002.84,
+        "timestamp": 1727440516.70832
+    },
+    {
+        "temperature": 27.72,
+        "pressure": 999.89,
+        "timestamp": 1727440516.7083235
+    },
+    {
+        "temperature": 27.5,
+        "pressure": 1009.46,
+        "timestamp": 1727440516.7083266
+    },
+    {
+        "temperature": 23.72,
+        "pressure": 991.9,
+        "timestamp": 1727440516.7083302
+    },
+    {
+        "temperature": 28.01,
+        "pressure": 1001.42,
+        "timestamp": 1727440516.7083335
+    },
+    {
+        "temperature": 24.23,
+        "pressure": 1004.54,
+        "timestamp": 1727440516.7083368
+    },
+    {
+        "temperature": 21.4,
+        "pressure": 1012.97,
+        "timestamp": 1727440516.7083404
+    },
+    {
+        "temperature": 20.88,
+        "pressure": 1012.87,
+        "timestamp": 1727440516.7083445
+    },
+    {
+        "temperature": 20.25,
+        "pressure": 1019.1,
+        "timestamp": 1727440516.7083478
+    },
+    {
+        "temperature": 27.07,
+        "pressure": 1001.98,
+        "timestamp": 1727440516.7083511
+    },
+    {
+        "temperature": 23.05,
+        "pressure": 998.54,
+        "timestamp": 1727440516.7083547
+    },
+    {
+        "temperature": 26.34,
+        "pressure": 992.4,
+        "timestamp": 1727440516.7083578
+    },
+    {
+        "temperature": 24.17,
+        "pressure": 992.96,
+        "timestamp": 1727440516.7083614
+    },
+    {
+        "temperature": 20.76,
+        "pressure": 1018.63,
+        "timestamp": 1727440516.708365
+    },
+    {
+        "temperature": 20.88,
+        "pressure": 1019.45,
+        "timestamp": 1727440516.7083693
+    },
+    {
+        "temperature": 20.92,
+        "pressure": 1008.47,
+        "timestamp": 1727440516.7083726
+    },
+    {
+        "temperature": 23.29,
+        "pressure": 1005.38,
+        "timestamp": 1727440516.708378
+    },
+    {
+        "temperature": 26.31,
+        "pressure": 1005.12,
+        "timestamp": 1727440516.708382
+    },
+    {
+        "temperature": 22.8,
+        "pressure": 1005.94,
+        "timestamp": 1727440516.7083855
+    },
+    {
+        "temperature": 20.0,
+        "pressure": 992.58,
+        "timestamp": 1727440516.7083888
+    },
+    {
+        "temperature": 29.76,
+        "pressure": 1002.79,
+        "timestamp": 1727440516.7083924
+    },
+    {
+        "temperature": 21.74,
+        "pressure": 1011.1,
+        "timestamp": 1727440516.7083955
+    },
+    {
+        "temperature": 29.68,
+        "pressure": 998.89,
+        "timestamp": 1727440516.7083988
+    },
+    {
+        "temperature": 28.67,
+        "pressure": 1012.95,
+        "timestamp": 1727440516.7084024
+    },
+    {
+        "temperature": 29.9,
+        "pressure": 1006.25,
+        "timestamp": 1727440516.7084057
+    },
+    {
+        "temperature": 22.48,
+        "pressure": 1006.39,
+        "timestamp": 1727440516.7084093
+    },
+    {
+        "temperature": 25.07,
+        "pressure": 997.34,
+        "timestamp": 1727440516.7084124
+    },
+    {
+        "temperature": 24.25,
+        "pressure": 1015.59,
+        "timestamp": 1727440516.708417
+    },
+    {
+        "temperature": 21.58,
+        "pressure": 992.05,
+        "timestamp": 1727440516.7084203
+    },
+    {
+        "temperature": 20.24,
+        "pressure": 997.96,
+        "timestamp": 1727440516.7084239
+    },
+    {
+        "temperature": 26.06,
+        "pressure": 1015.06,
+        "timestamp": 1727440516.708427
+    },
+    {
+        "temperature": 29.24,
+        "pressure": 1009.65,
+        "timestamp": 1727440516.708432
+    },
+    {
+        "temperature": 29.22,
+        "pressure": 1010.97,
+        "timestamp": 1727440516.708435
+    },
+    {
+        "temperature": 23.66,
+        "pressure": 993.44,
+        "timestamp": 1727440516.7084382
+    },
+    {
+        "temperature": 25.6,
+        "pressure": 996.43,
+        "timestamp": 1727440516.708442
+    },
+    {
+        "temperature": 23.85,
+        "pressure": 995.59,
+        "timestamp": 1727440516.708445
+    },
+    {
+        "temperature": 26.88,
+        "pressure": 1009.37,
+        "timestamp": 1727440516.708449
+    },
+    {
+        "temperature": 21.3,
+        "pressure": 992.06,
+        "timestamp": 1727440516.7084517
+    },
+    {
+        "temperature": 20.36,
+        "pressure": 995.65,
+        "timestamp": 1727440516.7084553
+    },
+    {
+        "temperature": 24.23,
+        "pressure": 1014.3,
+        "timestamp": 1727440516.7084587
+    },
+    {
+        "temperature": 26.23,
+        "pressure": 1003.89,
+        "timestamp": 1727440516.7084618
+    },
+    {
+        "temperature": 26.93,
+        "pressure": 997.91,
+        "timestamp": 1727440516.708465
+    },
+    {
+        "temperature": 22.34,
+        "pressure": 1018.33,
+        "timestamp": 1727440516.7084684
+    },
+    {
+        "temperature": 21.17,
+        "pressure": 996.97,
+        "timestamp": 1727440516.7084715
+    },
+    {
+        "temperature": 27.41,
+        "pressure": 997.92,
+        "timestamp": 1727440516.708475
+    },
+    {
+        "temperature": 21.18,
+        "pressure": 1004.12,
+        "timestamp": 1727440516.7084785
+    },
+    {
+        "temperature": 27.69,
+        "pressure": 1011.58,
+        "timestamp": 1727440516.708482
+    },
+    {
+        "temperature": 22.52,
+        "pressure": 1008.55,
+        "timestamp": 1727440516.7084868
+    },
+    {
+        "temperature": 25.23,
+        "pressure": 1001.8,
+        "timestamp": 1727440516.7084932
+    },
+    {
+        "temperature": 28.25,
+        "pressure": 993.33,
+        "timestamp": 1727440516.708498
+    },
+    {
+        "temperature": 23.45,
+        "pressure": 1013.74,
+        "timestamp": 1727440516.7085018
+    },
+    {
+        "temperature": 28.81,
+        "pressure": 1017.13,
+        "timestamp": 1727440516.7085052
+    },
+    {
+        "temperature": 27.32,
+        "pressure": 1018.35,
+        "timestamp": 1727440516.708509
+    },
+    {
+        "temperature": 22.88,
+        "pressure": 996.52,
+        "timestamp": 1727440516.708512
+    },
+    {
+        "temperature": 26.41,
+        "pressure": 996.16,
+        "timestamp": 1727440516.7085176
+    },
+    {
+        "temperature": 23.61,
+        "pressure": 1009.33,
+        "timestamp": 1727440516.708521
+    },
+    {
+        "temperature": 26.19,
+        "pressure": 997.87,
+        "timestamp": 1727440516.7085242
+    },
+    {
+        "temperature": 22.09,
+        "pressure": 993.06,
+        "timestamp": 1727440516.7085276
+    },
+    {
+        "temperature": 29.48,
+        "pressure": 990.32,
+        "timestamp": 1727440516.7085307
+    },
+    {
+        "temperature": 28.12,
+        "pressure": 1019.15,
+        "timestamp": 1727440516.708534
+    },
+    {
+        "temperature": 27.46,
+        "pressure": 1010.3,
+        "timestamp": 1727440516.708537
+    },
+    {
+        "temperature": 27.19,
+        "pressure": 1013.69,
+        "timestamp": 1727440516.7085404
+    },
+    {
+        "temperature": 21.95,
+        "pressure": 990.37,
+        "timestamp": 1727440516.708544
+    },
+    {
+        "temperature": 23.13,
+        "pressure": 1007.09,
+        "timestamp": 1727440516.708547
+    },
+    {
+        "temperature": 23.57,
+        "pressure": 997.57,
+        "timestamp": 1727440516.7085533
+    },
+    {
+        "temperature": 28.38,
+        "pressure": 1012.45,
+        "timestamp": 1727440516.7085576
+    },
+    {
+        "temperature": 21.17,
+        "pressure": 1009.63,
+        "timestamp": 1727440516.7085612
+    },
+    {
+        "temperature": 21.26,
+        "pressure": 1017.98,
+        "timestamp": 1727440516.7085648
+    },
+    {
+        "temperature": 21.56,
+        "pressure": 1008.68,
+        "timestamp": 1727440516.7085686
+    },
+    {
+        "temperature": 26.53,
+        "pressure": 1001.31,
+        "timestamp": 1727440516.7085724
+    },
+    {
+        "temperature": 23.29,
+        "pressure": 1008.64,
+        "timestamp": 1727440516.7085757
+    },
+    {
+        "temperature": 20.18,
+        "pressure": 991.31,
+        "timestamp": 1727440516.7085881
+    },
+    {
+        "temperature": 24.02,
+        "pressure": 999.39,
+        "timestamp": 1727440516.7085915
+    },
+    {
+        "temperature": 24.67,
+        "pressure": 991.13,
+        "timestamp": 1727440516.7085948
+    },
+    {
+        "temperature": 20.13,
+        "pressure": 1019.24,
+        "timestamp": 1727440516.708598
+    },
+    {
+        "temperature": 27.14,
+        "pressure": 1003.65,
+        "timestamp": 1727440516.708602
+    },
+    {
+        "temperature": 23.46,
+        "pressure": 1018.11,
+        "timestamp": 1727440516.7086048
+    },
+    {
+        "temperature": 27.3,
+        "pressure": 1003.65,
+        "timestamp": 1727440516.7086082
+    },
+    {
+        "temperature": 21.02,
+        "pressure": 992.22,
+        "timestamp": 1727440516.7086112
+    },
+    {
+        "temperature": 24.85,
+        "pressure": 1001.65,
+        "timestamp": 1727440516.7086143
+    },
+    {
+        "temperature": 27.61,
+        "pressure": 1011.39,
+        "timestamp": 1727440516.7086208
+    },
+    {
+        "temperature": 26.28,
+        "pressure": 1011.39,
+        "timestamp": 1727440516.708625
+    },
+    {
+        "temperature": 25.35,
+        "pressure": 1018.33,
+        "timestamp": 1727440516.708628
+    },
+    {
+        "temperature": 26.16,
+        "pressure": 1002.18,
+        "timestamp": 1727440516.7086315
+    },
+    {
+        "temperature": 29.97,
+        "pressure": 1015.24,
+        "timestamp": 1727440516.7086349
+    },
+    {
+        "temperature": 29.41,
+        "pressure": 1010.46,
+        "timestamp": 1727440516.7086382
+    },
+    {
+        "temperature": 23.86,
+        "pressure": 1008.77,
+        "timestamp": 1727440516.7086415
+    },
+    {
+        "temperature": 29.56,
+        "pressure": 1002.48,
+        "timestamp": 1727440516.7086446
+    },
+    {
+        "temperature": 28.04,
+        "pressure": 1006.67,
+        "timestamp": 1727440516.7086482
+    },
+    {
+        "temperature": 21.54,
+        "pressure": 996.24,
+        "timestamp": 1727440516.7086513
+    },
+    {
+        "temperature": 26.18,
+        "pressure": 1000.27,
+        "timestamp": 1727440516.7086549
+    },
+    {
+        "temperature": 24.23,
+        "pressure": 1012.32,
+        "timestamp": 1727440516.7086582
+    },
+    {
+        "temperature": 21.7,
+        "pressure": 1013.61,
+        "timestamp": 1727440516.7086613
+    },
+    {
+        "temperature": 21.89,
+        "pressure": 993.3,
+        "timestamp": 1727440516.708665
+    },
+    {
+        "temperature": 20.0,
+        "pressure": 1018.1,
+        "timestamp": 1727440516.708668
+    },
+    {
+        "temperature": 21.98,
+        "pressure": 990.33,
+        "timestamp": 1727440516.7086716
+    },
+    {
+        "temperature": 25.95,
+        "pressure": 990.58,
+        "timestamp": 1727440516.7086747
+    },
+    {
+        "temperature": 29.62,
+        "pressure": 1015.46,
+        "timestamp": 1727440516.7086787
+    },
+    {
+        "temperature": 23.31,
+        "pressure": 1015.85,
+        "timestamp": 1727440516.7086823
+    },
+    {
+        "temperature": 22.54,
+        "pressure": 993.73,
+        "timestamp": 1727440516.7086887
+    },
+    {
+        "temperature": 27.95,
+        "pressure": 998.67,
+        "timestamp": 1727440516.7086916
+    },
+    {
+        "temperature": 28.25,
+        "pressure": 998.16,
+        "timestamp": 1727440516.7086957
+    },
+    {
+        "temperature": 21.32,
+        "pressure": 1006.38,
+        "timestamp": 1727440516.7086985
+    },
+    {
+        "temperature": 20.89,
+        "pressure": 1004.3,
+        "timestamp": 1727440516.7087018
+    },
+    {
+        "temperature": 25.8,
+        "pressure": 1006.8,
+        "timestamp": 1727440516.7087054
+    },
+    {
+        "temperature": 29.55,
+        "pressure": 996.3,
+        "timestamp": 1727440516.7087088
+    },
+    {
+        "temperature": 29.91,
+        "pressure": 998.33,
+        "timestamp": 1727440516.7087119
+    },
+    {
+        "temperature": 20.35,
+        "pressure": 1004.9,
+        "timestamp": 1727440516.7087154
+    },
+    {
+        "temperature": 28.32,
+        "pressure": 1009.73,
+        "timestamp": 1727440516.7087188
+    },
+    {
+        "temperature": 22.77,
+        "pressure": 1000.26,
+        "timestamp": 1727440516.708722
+    },
+    {
+        "temperature": 22.59,
+        "pressure": 1014.84,
+        "timestamp": 1727440516.7087255
+    },
+    {
+        "temperature": 22.39,
+        "pressure": 1003.66,
+        "timestamp": 1727440516.7087286
+    },
+    {
+        "temperature": 22.7,
+        "pressure": 1003.64,
+        "timestamp": 1727440516.708733
+    },
+    {
+        "temperature": 28.67,
+        "pressure": 1018.68,
+        "timestamp": 1727440516.7087371
+    },
+    {
+        "temperature": 24.98,
+        "pressure": 1010.31,
+        "timestamp": 1727440516.7087421
+    },
+    {
+        "temperature": 28.3,
+        "pressure": 1005.18,
+        "timestamp": 1727440516.7087457
+    },
+    {
+        "temperature": 20.56,
+        "pressure": 993.03,
+        "timestamp": 1727440516.708749
+    },
+    {
+        "temperature": 23.17,
+        "pressure": 1008.21,
+        "timestamp": 1727440516.7087524
+    },
+    {
+        "temperature": 28.39,
+        "pressure": 992.17,
+        "timestamp": 1727440516.708756
+    },
+    {
+        "temperature": 22.91,
+        "pressure": 1001.31,
+        "timestamp": 1727440516.7087593
+    },
+    {
+        "temperature": 24.05,
+        "pressure": 1002.03,
+        "timestamp": 1727440516.708763
+    },
+    {
+        "temperature": 24.73,
+        "pressure": 999.69,
+        "timestamp": 1727440516.7087662
+    },
+    {
+        "temperature": 25.13,
+        "pressure": 999.2,
+        "timestamp": 1727440516.7087698
+    },
+    {
+        "temperature": 26.56,
+        "pressure": 1016.12,
+        "timestamp": 1727440516.7087727
+    },
+    {
+        "temperature": 21.11,
+        "pressure": 1017.87,
+        "timestamp": 1727440516.7087762
+    },
+    {
+        "temperature": 22.33,
+        "pressure": 995.68,
+        "timestamp": 1727440516.7087793
+    },
+    {
+        "temperature": 28.29,
+        "pressure": 1013.79,
+        "timestamp": 1727440516.7087824
+    },
+    {
+        "temperature": 24.8,
+        "pressure": 1016.2,
+        "timestamp": 1727440516.7087858
+    },
+    {
+        "temperature": 20.06,
+        "pressure": 999.11,
+        "timestamp": 1727440516.7087893
+    },
+    {
+        "temperature": 25.22,
+        "pressure": 1002.54,
+        "timestamp": 1727440516.7087936
+    },
+    {
+        "temperature": 26.83,
+        "pressure": 1000.62,
+        "timestamp": 1727440516.7087967
+    },
+    {
+        "temperature": 22.1,
+        "pressure": 1000.87,
+        "timestamp": 1727440516.7088027
+    },
+    {
+        "temperature": 27.01,
+        "pressure": 995.87,
+        "timestamp": 1727440516.7088058
+    },
+    {
+        "temperature": 21.26,
+        "pressure": 997.46,
+        "timestamp": 1727440516.7088094
+    },
+    {
+        "temperature": 27.27,
+        "pressure": 1007.57,
+        "timestamp": 1727440516.7088125
+    },
+    {
+        "temperature": 27.74,
+        "pressure": 1001.42,
+        "timestamp": 1727440516.708816
+    },
+    {
+        "temperature": 29.59,
+        "pressure": 1001.49,
+        "timestamp": 1727440516.7088194
+    },
+    {
+        "temperature": 20.88,
+        "pressure": 996.28,
+        "timestamp": 1727440516.708823
+    },
+    {
+        "temperature": 22.19,
+        "pressure": 1007.01,
+        "timestamp": 1727440516.708826
+    },
+    {
+        "temperature": 25.19,
+        "pressure": 998.35,
+        "timestamp": 1727440516.7088294
+    },
+    {
+        "temperature": 28.18,
+        "pressure": 996.6,
+        "timestamp": 1727440516.7088418
+    },
+    {
+        "temperature": 26.58,
+        "pressure": 992.85,
+        "timestamp": 1727440516.7088456
+    },
+    {
+        "temperature": 26.62,
+        "pressure": 991.03,
+        "timestamp": 1727440516.7088492
+    },
+    {
+        "temperature": 22.21,
+        "pressure": 999.75,
+        "timestamp": 1727440516.7088528
+    },
+    {
+        "temperature": 28.19,
+        "pressure": 1014.04,
+        "timestamp": 1727440516.708857
+    },
+    {
+        "temperature": 27.24,
+        "pressure": 993.19,
+        "timestamp": 1727440516.7088616
+    },
+    {
+        "temperature": 20.4,
+        "pressure": 992.46,
+        "timestamp": 1727440516.7088647
+    },
+    {
+        "temperature": 24.2,
+        "pressure": 992.05,
+        "timestamp": 1727440516.708868
+    },
+    {
+        "temperature": 23.4,
+        "pressure": 992.47,
+        "timestamp": 1727440516.7088726
+    },
+    {
+        "temperature": 25.98,
+        "pressure": 1018.22,
+        "timestamp": 1727440516.7088761
+    },
+    {
+        "temperature": 28.0,
+        "pressure": 996.12,
+        "timestamp": 1727440516.7088795
+    },
+    {
+        "temperature": 28.17,
+        "pressure": 1002.73,
+        "timestamp": 1727440516.708883
+    },
+    {
+        "temperature": 25.78,
+        "pressure": 1002.16,
+        "timestamp": 1727440516.7088864
+    },
+    {
+        "temperature": 28.6,
+        "pressure": 1014.16,
+        "timestamp": 1727440516.70889
+    },
+    {
+        "temperature": 27.76,
+        "pressure": 1012.64,
+        "timestamp": 1727440516.7088933
+    },
+    {
+        "temperature": 27.91,
+        "pressure": 1013.79,
+        "timestamp": 1727440516.7088962
+    },
+    {
+        "temperature": 29.01,
+        "pressure": 994.92,
+        "timestamp": 1727440516.7089002
+    },
+    {
+        "temperature": 28.67,
+        "pressure": 1006.49,
+        "timestamp": 1727440516.708903
+    },
+    {
+        "temperature": 23.57,
+        "pressure": 1012.27,
+        "timestamp": 1727440516.7089067
+    },
+    {
+        "temperature": 22.97,
+        "pressure": 1013.26,
+        "timestamp": 1727440516.70891
+    },
+    {
+        "temperature": 29.72,
+        "pressure": 993.36,
+        "timestamp": 1727440516.7089136
+    },
+    {
+        "temperature": 27.63,
+        "pressure": 1012.63,
+        "timestamp": 1727440516.7089183
+    },
+    {
+        "temperature": 27.68,
+        "pressure": 1002.75,
+        "timestamp": 1727440516.708922
+    },
+    {
+        "temperature": 23.22,
+        "pressure": 999.37,
+        "timestamp": 1727440516.7089252
+    },
+    {
+        "temperature": 28.1,
+        "pressure": 996.42,
+        "timestamp": 1727440516.7089295
+    },
+    {
+        "temperature": 25.22,
+        "pressure": 1016.16,
+        "timestamp": 1727440516.708933
+    },
+    {
+        "temperature": 27.79,
+        "pressure": 991.03,
+        "timestamp": 1727440516.708937
+    },
+    {
+        "temperature": 22.33,
+        "pressure": 1001.9,
+        "timestamp": 1727440516.7089405
+    },
+    {
+        "temperature": 26.35,
+        "pressure": 1011.44,
+        "timestamp": 1727440516.708944
+    },
+    {
+        "temperature": 20.93,
+        "pressure": 991.68,
+        "timestamp": 1727440516.7089474
+    },
+    {
+        "temperature": 20.58,
+        "pressure": 995.23,
+        "timestamp": 1727440516.7089508
+    },
+    {
+        "temperature": 20.57,
+        "pressure": 1003.24,
+        "timestamp": 1727440516.708954
+    },
+    {
+        "temperature": 28.78,
+        "pressure": 1009.57,
+        "timestamp": 1727440516.7089574
+    },
+    {
+        "temperature": 23.79,
+        "pressure": 1014.26,
+        "timestamp": 1727440516.708961
+    },
+    {
+        "temperature": 22.92,
+        "pressure": 994.4,
+        "timestamp": 1727440516.708964
+    },
+    {
+        "temperature": 24.68,
+        "pressure": 998.42,
+        "timestamp": 1727440516.7089677
+    },
+    {
+        "temperature": 26.5,
+        "pressure": 1005.19,
+        "timestamp": 1727440516.7089734
+    },
+    {
+        "temperature": 27.69,
+        "pressure": 1000.42,
+        "timestamp": 1727440516.7090151
+    },
+    {
+        "temperature": 22.8,
+        "pressure": 991.06,
+        "timestamp": 1727440516.7090259
+    },
+    {
+        "temperature": 24.4,
+        "pressure": 992.03,
+        "timestamp": 1727440516.7090292
+    },
+    {
+        "temperature": 23.62,
+        "pressure": 1008.01,
+        "timestamp": 1727440516.7090325
+    },
+    {
+        "temperature": 21.28,
+        "pressure": 1012.39,
+        "timestamp": 1727440516.7090716
+    },
+    {
+        "temperature": 20.31,
+        "pressure": 1006.78,
+        "timestamp": 1727440516.7090762
+    },
+    {
+        "temperature": 23.14,
+        "pressure": 1011.74,
+        "timestamp": 1727440516.7090793
+    },
+    {
+        "temperature": 24.24,
+        "pressure": 1005.97,
+        "timestamp": 1727440516.7090828
+    },
+    {
+        "temperature": 25.8,
+        "pressure": 1000.44,
+        "timestamp": 1727440516.7090862
+    },
+    {
+        "temperature": 26.05,
+        "pressure": 1018.57,
+        "timestamp": 1727440516.7090895
+    },
+    {
+        "temperature": 27.78,
+        "pressure": 1007.12,
+        "timestamp": 1727440516.709093
+    },
+    {
+        "temperature": 22.14,
+        "pressure": 1005.09,
+        "timestamp": 1727440516.7090962
+    },
+    {
+        "temperature": 24.39,
+        "pressure": 1017.43,
+        "timestamp": 1727440516.7090998
+    },
+    {
+        "temperature": 23.9,
+        "pressure": 1018.45,
+        "timestamp": 1727440516.709103
+    },
+    {
+        "temperature": 20.83,
+        "pressure": 999.24,
+        "timestamp": 1727440516.7091064
+    },
+    {
+        "temperature": 29.21,
+        "pressure": 1018.19,
+        "timestamp": 1727440516.70911
+    },
+    {
+        "temperature": 20.34,
+        "pressure": 1006.97,
+        "timestamp": 1727440516.7091143
+    },
+    {
+        "temperature": 27.41,
+        "pressure": 1007.99,
+        "timestamp": 1727440516.7091181
+    },
+    {
+        "temperature": 20.21,
+        "pressure": 995.27,
+        "timestamp": 1727440516.7091217
+    },
+    {
+        "temperature": 29.87,
+        "pressure": 1003.01,
+        "timestamp": 1727440516.7091255
+    },
+    {
+        "temperature": 23.41,
+        "pressure": 1007.96,
+        "timestamp": 1727440516.7091334
+    },
+    {
+        "temperature": 24.24,
+        "pressure": 1001.31,
+        "timestamp": 1727440516.7091374
+    },
+    {
+        "temperature": 25.41,
+        "pressure": 1016.34,
+        "timestamp": 1727440516.7091405
+    },
+    {
+        "temperature": 27.47,
+        "pressure": 991.45,
+        "timestamp": 1727440516.709144
+    },
+    {
+        "temperature": 25.48,
+        "pressure": 1013.04,
+        "timestamp": 1727440516.7091477
+    },
+    {
+        "temperature": 28.29,
+        "pressure": 1015.97,
+        "timestamp": 1727440516.709151
+    },
+    {
+        "temperature": 22.77,
+        "pressure": 1009.82,
+        "timestamp": 1727440516.7091546
+    },
+    {
+        "temperature": 21.16,
+        "pressure": 1014.59,
+        "timestamp": 1727440516.7091577
+    },
+    {
+        "temperature": 24.08,
+        "pressure": 991.79,
+        "timestamp": 1727440516.7091613
+    },
+    {
+        "temperature": 27.83,
+        "pressure": 1000.15,
+        "timestamp": 1727440516.7091646
+    },
+    {
+        "temperature": 25.19,
+        "pressure": 1000.26,
+        "timestamp": 1727440516.70917
+    },
+    {
+        "temperature": 28.19,
+        "pressure": 1004.74,
+        "timestamp": 1727440516.7091756
+    },
+    {
+        "temperature": 22.47,
+        "pressure": 1001.09,
+        "timestamp": 1727440516.7091796
+    },
+    {
+        "temperature": 21.2,
+        "pressure": 1008.6,
+        "timestamp": 1727440516.7091851
+    },
+    {
+        "temperature": 23.09,
+        "pressure": 997.26,
+        "timestamp": 1727440516.709188
+    },
+    {
+        "temperature": 24.18,
+        "pressure": 990.43,
+        "timestamp": 1727440516.7091918
+    },
+    {
+        "temperature": 28.58,
+        "pressure": 1018.66,
+        "timestamp": 1727440516.709195
+    },
+    {
+        "temperature": 24.95,
+        "pressure": 1006.49,
+        "timestamp": 1727440516.7091992
+    },
+    {
+        "temperature": 23.03,
+        "pressure": 990.71,
+        "timestamp": 1727440516.7092028
+    },
+    {
+        "temperature": 27.88,
+        "pressure": 1019.79,
+        "timestamp": 1727440516.709206
+    },
+    {
+        "temperature": 26.45,
+        "pressure": 1003.71,
+        "timestamp": 1727440516.7092094
+    },
+    {
+        "temperature": 22.83,
+        "pressure": 997.75,
+        "timestamp": 1727440516.7092123
+    },
+    {
+        "temperature": 25.1,
+        "pressure": 999.37,
+        "timestamp": 1727440516.709216
+    },
+    {
+        "temperature": 23.78,
+        "pressure": 1006.59,
+        "timestamp": 1727440516.709219
+    },
+    {
+        "temperature": 28.39,
+        "pressure": 999.62,
+        "timestamp": 1727440516.7092226
+    },
+    {
+        "temperature": 24.19,
+        "pressure": 1001.88,
+        "timestamp": 1727440516.7092257
+    },
+    {
+        "temperature": 25.93,
+        "pressure": 1009.34,
+        "timestamp": 1727440516.709229
+    },
+    {
+        "temperature": 20.97,
+        "pressure": 1015.65,
+        "timestamp": 1727440516.7092326
+    },
+    {
+        "temperature": 23.4,
+        "pressure": 1014.63,
+        "timestamp": 1727440516.7092364
+    },
+    {
+        "temperature": 22.21,
+        "pressure": 1011.06,
+        "timestamp": 1727440516.70924
+    },
+    {
+        "temperature": 25.64,
+        "pressure": 996.71,
+        "timestamp": 1727440516.709243
+    },
+    {
+        "temperature": 27.63,
+        "pressure": 994.51,
+        "timestamp": 1727440516.7092466
+    },
+    {
+        "temperature": 24.89,
+        "pressure": 1018.78,
+        "timestamp": 1727440516.7092495
+    },
+    {
+        "temperature": 25.21,
+        "pressure": 1007.23,
+        "timestamp": 1727440516.7092528
+    },
+    {
+        "temperature": 21.83,
+        "pressure": 1013.68,
+        "timestamp": 1727440516.709258
+    },
+    {
+        "temperature": 24.74,
+        "pressure": 996.59,
+        "timestamp": 1727440516.7092614
+    },
+    {
+        "temperature": 21.11,
+        "pressure": 1009.26,
+        "timestamp": 1727440516.7092643
+    },
+    {
+        "temperature": 28.85,
+        "pressure": 997.51,
+        "timestamp": 1727440516.7092674
+    },
+    {
+        "temperature": 24.95,
+        "pressure": 1001.12,
+        "timestamp": 1727440516.7092705
+    },
+    {
+        "temperature": 22.65,
+        "pressure": 992.96,
+        "timestamp": 1727440516.7092738
+    },
+    {
+        "temperature": 24.06,
+        "pressure": 1007.6,
+        "timestamp": 1727440516.7092938
+    },
+    {
+        "temperature": 25.91,
+        "pressure": 1011.48,
+        "timestamp": 1727440516.709297
+    },
+    {
+        "temperature": 24.38,
+        "pressure": 1010.05,
+        "timestamp": 1727440516.7093003
+    },
+    {
+        "temperature": 29.9,
+        "pressure": 1009.62,
+        "timestamp": 1727440516.7093048
+    },
+    {
+        "temperature": 23.23,
+        "pressure": 1015.68,
+        "timestamp": 1727440516.7093086
+    },
+    {
+        "temperature": 22.6,
+        "pressure": 1018.89,
+        "timestamp": 1727440516.7093117
+    },
+    {
+        "temperature": 22.34,
+        "pressure": 1019.63,
+        "timestamp": 1727440516.7093148
+    },
+    {
+        "temperature": 27.16,
+        "pressure": 993.41,
+        "timestamp": 1727440516.7093258
+    },
+    {
+        "temperature": 27.25,
+        "pressure": 993.83,
+        "timestamp": 1727440516.7093294
+    },
+    {
+        "temperature": 27.55,
+        "pressure": 1010.4,
+        "timestamp": 1727440516.7093325
+    },
+    {
+        "temperature": 29.12,
+        "pressure": 999.12,
+        "timestamp": 1727440516.7093365
+    },
+    {
+        "temperature": 28.98,
+        "pressure": 1001.24,
+        "timestamp": 1727440516.70934
+    },
+    {
+        "temperature": 28.25,
+        "pressure": 995.47,
+        "timestamp": 1727440516.709343
+    },
+    {
+        "temperature": 29.82,
+        "pressure": 996.88,
+        "timestamp": 1727440516.7093463
+    },
+    {
+        "temperature": 29.66,
+        "pressure": 997.24,
+        "timestamp": 1727440516.7093518
+    },
+    {
+        "temperature": 21.96,
+        "pressure": 1017.56,
+        "timestamp": 1727440516.7093546
+    },
+    {
+        "temperature": 22.36,
+        "pressure": 1011.5,
+        "timestamp": 1727440516.709358
+    },
+    {
+        "temperature": 23.71,
+        "pressure": 1018.37,
+        "timestamp": 1727440516.709361
+    },
+    {
+        "temperature": 23.39,
+        "pressure": 995.08,
+        "timestamp": 1727440516.709364
+    },
+    {
+        "temperature": 24.12,
+        "pressure": 1010.11,
+        "timestamp": 1727440516.709367
+    },
+    {
+        "temperature": 23.82,
+        "pressure": 1007.31,
+        "timestamp": 1727440516.7093706
+    },
+    {
+        "temperature": 29.32,
+        "pressure": 1008.28,
+        "timestamp": 1727440516.7093737
+    },
+    {
+        "temperature": 25.13,
+        "pressure": 1010.89,
+        "timestamp": 1727440516.7093766
+    },
+    {
+        "temperature": 25.93,
+        "pressure": 1010.15,
+        "timestamp": 1727440516.7093823
+    },
+    {
+        "temperature": 22.68,
+        "pressure": 1019.64,
+        "timestamp": 1727440516.7093854
+    },
+    {
+        "temperature": 27.63,
+        "pressure": 996.43,
+        "timestamp": 1727440516.7093887
+    },
+    {
+        "temperature": 27.85,
+        "pressure": 990.87,
+        "timestamp": 1727440516.709392
+    },
+    {
+        "temperature": 22.11,
+        "pressure": 1005.03,
+        "timestamp": 1727440516.7093956
+    },
+    {
+        "temperature": 21.37,
+        "pressure": 1011.3,
+        "timestamp": 1727440516.7093992
+    },
+    {
+        "temperature": 28.57,
+        "pressure": 1003.15,
+        "timestamp": 1727440516.7094023
+    },
+    {
+        "temperature": 25.47,
+        "pressure": 999.48,
+        "timestamp": 1727440516.709406
+    },
+    {
+        "temperature": 20.52,
+        "pressure": 1000.57,
+        "timestamp": 1727440516.7094092
+    },
+    {
+        "temperature": 25.88,
+        "pressure": 996.7,
+        "timestamp": 1727440516.7094219
+    },
+    {
+        "temperature": 29.13,
+        "pressure": 990.76,
+        "timestamp": 1727440516.7094252
+    },
+    {
+        "temperature": 24.11,
+        "pressure": 1004.25,
+        "timestamp": 1727440516.7094288
+    },
+    {
+        "temperature": 25.56,
+        "pressure": 1011.43,
+        "timestamp": 1727440516.7094355
+    },
+    {
+        "temperature": 24.26,
+        "pressure": 997.52,
+        "timestamp": 1727440516.7094395
+    },
+    {
+        "temperature": 21.88,
+        "pressure": 1005.12,
+        "timestamp": 1727440516.7094426
+    },
+    {
+        "temperature": 27.79,
+        "pressure": 1017.05,
+        "timestamp": 1727440516.709446
+    },
+    {
+        "temperature": 25.12,
+        "pressure": 998.48,
+        "timestamp": 1727440516.7094493
+    },
+    {
+        "temperature": 24.39,
+        "pressure": 1000.04,
+        "timestamp": 1727440516.7094529
+    },
+    {
+        "temperature": 23.79,
+        "pressure": 1007.76,
+        "timestamp": 1727440516.709456
+    },
+    {
+        "temperature": 24.51,
+        "pressure": 1006.68,
+        "timestamp": 1727440516.7094595
+    },
+    {
+        "temperature": 24.28,
+        "pressure": 1011.32,
+        "timestamp": 1727440516.7094622
+    },
+    {
+        "temperature": 26.27,
+        "pressure": 1002.0,
+        "timestamp": 1727440516.709468
+    },
+    {
+        "temperature": 28.89,
+        "pressure": 1016.81,
+        "timestamp": 1727440516.7094717
+    },
+    {
+        "temperature": 21.36,
+        "pressure": 1019.84,
+        "timestamp": 1727440516.7094748
+    },
+    {
+        "temperature": 25.04,
+        "pressure": 1008.66,
+        "timestamp": 1727440516.709478
+    },
+    {
+        "temperature": 21.29,
+        "pressure": 1016.43,
+        "timestamp": 1727440516.7094812
+    },
+    {
+        "temperature": 29.91,
+        "pressure": 999.59,
+        "timestamp": 1727440516.7094846
+    },
+    {
+        "temperature": 21.94,
+        "pressure": 1009.4,
+        "timestamp": 1727440516.709495
+    },
+    {
+        "temperature": 25.43,
+        "pressure": 992.0,
+        "timestamp": 1727440516.709499
+    },
+    {
+        "temperature": 24.66,
+        "pressure": 990.04,
+        "timestamp": 1727440516.7095025
+    },
+    {
+        "temperature": 21.65,
+        "pressure": 999.63,
+        "timestamp": 1727440516.7095056
+    },
+    {
+        "temperature": 21.98,
+        "pressure": 1006.36,
+        "timestamp": 1727440516.7095087
+    },
+    {
+        "temperature": 27.86,
+        "pressure": 1011.24,
+        "timestamp": 1727440516.709512
+    },
+    {
+        "temperature": 23.67,
+        "pressure": 990.05,
+        "timestamp": 1727440516.7095149
+    },
+    {
+        "temperature": 26.86,
+        "pressure": 1002.3,
+        "timestamp": 1727440516.7095182
+    },
+    {
+        "temperature": 27.54,
+        "pressure": 1006.0,
+        "timestamp": 1727440516.709521
+    },
+    {
+        "temperature": 22.98,
+        "pressure": 1018.33,
+        "timestamp": 1727440516.7095242
+    },
+    {
+        "temperature": 21.6,
+        "pressure": 991.84,
+        "timestamp": 1727440516.7095277
+    },
+    {
+        "temperature": 29.15,
+        "pressure": 991.28,
+        "timestamp": 1727440516.7095306
+    },
+    {
+        "temperature": 25.25,
+        "pressure": 993.45,
+        "timestamp": 1727440516.709545
+    },
+    {
+        "temperature": 25.58,
+        "pressure": 997.0,
+        "timestamp": 1727440516.7095482
+    },
+    {
+        "temperature": 24.88,
+        "pressure": 998.68,
+        "timestamp": 1727440516.7095556
+    },
+    {
+        "temperature": 28.5,
+        "pressure": 1009.83,
+        "timestamp": 1727440516.7095587
+    },
+    {
+        "temperature": 29.8,
+        "pressure": 1001.2,
+        "timestamp": 1727440516.7095616
+    },
+    {
+        "temperature": 20.66,
+        "pressure": 1006.57,
+        "timestamp": 1727440516.709566
+    },
+    {
+        "temperature": 22.14,
+        "pressure": 993.21,
+        "timestamp": 1727440516.7095697
+    },
+    {
+        "temperature": 23.15,
+        "pressure": 1012.84,
+        "timestamp": 1727440516.7095728
+    },
+    {
+        "temperature": 20.23,
+        "pressure": 996.48,
+        "timestamp": 1727440516.7095757
+    },
+    {
+        "temperature": 25.43,
+        "pressure": 1004.74,
+        "timestamp": 1727440516.7095788
+    },
+    {
+        "temperature": 27.76,
+        "pressure": 991.16,
+        "timestamp": 1727440516.7095816
+    },
+    {
+        "temperature": 21.26,
+        "pressure": 1013.96,
+        "timestamp": 1727440516.7095847
+    },
+    {
+        "temperature": 29.3,
+        "pressure": 1007.07,
+        "timestamp": 1727440516.7095876
+    },
+    {
+        "temperature": 28.69,
+        "pressure": 993.08,
+        "timestamp": 1727440516.7095904
+    },
+    {
+        "temperature": 20.68,
+        "pressure": 1001.36,
+        "timestamp": 1727440516.7095935
+    },
+    {
+        "temperature": 20.39,
+        "pressure": 994.33,
+        "timestamp": 1727440516.7096074
+    },
+    {
+        "temperature": 22.91,
+        "pressure": 1019.15,
+        "timestamp": 1727440516.7096107
+    },
+    {
+        "temperature": 28.51,
+        "pressure": 1019.7,
+        "timestamp": 1727440516.7096136
+    },
+    {
+        "temperature": 28.49,
+        "pressure": 1002.25,
+        "timestamp": 1727440516.7096164
+    },
+    {
+        "temperature": 25.72,
+        "pressure": 1015.46,
+        "timestamp": 1727440516.7096195
+    },
+    {
+        "temperature": 29.35,
+        "pressure": 999.02,
+        "timestamp": 1727440516.7096229
+    },
+    {
+        "temperature": 23.57,
+        "pressure": 995.46,
+        "timestamp": 1727440516.709626
+    },
+    {
+        "temperature": 23.03,
+        "pressure": 1001.92,
+        "timestamp": 1727440516.7096298
+    },
+    {
+        "temperature": 22.68,
+        "pressure": 1016.72,
+        "timestamp": 1727440516.7096324
+    },
+    {
+        "temperature": 28.68,
+        "pressure": 993.52,
+        "timestamp": 1727440516.7096355
+    },
+    {
+        "temperature": 26.38,
+        "pressure": 998.43,
+        "timestamp": 1727440516.709638
+    },
+    {
+        "temperature": 22.97,
+        "pressure": 1011.13,
+        "timestamp": 1727440516.7096412
+    },
+    {
+        "temperature": 22.85,
+        "pressure": 1006.09,
+        "timestamp": 1727440516.7096443
+    },
+    {
+        "temperature": 26.71,
+        "pressure": 1004.74,
+        "timestamp": 1727440516.7096477
+    },
+    {
+        "temperature": 29.37,
+        "pressure": 998.61,
+        "timestamp": 1727440516.7096505
+    },
+    {
+        "temperature": 23.8,
+        "pressure": 1019.12,
+        "timestamp": 1727440516.7096539
+    },
+    {
+        "temperature": 29.59,
+        "pressure": 1005.64,
+        "timestamp": 1727440516.70967
+    },
+    {
+        "temperature": 27.19,
+        "pressure": 1008.3,
+        "timestamp": 1727440516.7096746
+    },
+    {
+        "temperature": 28.27,
+        "pressure": 998.46,
+        "timestamp": 1727440516.7096782
+    },
+    {
+        "temperature": 23.96,
+        "pressure": 1014.55,
+        "timestamp": 1727440516.709687
+    },
+    {
+        "temperature": 22.16,
+        "pressure": 998.4,
+        "timestamp": 1727440516.70969
+    },
+    {
+        "temperature": 26.39,
+        "pressure": 998.18,
+        "timestamp": 1727440516.7096932
+    },
+    {
+        "temperature": 22.23,
+        "pressure": 1013.43,
+        "timestamp": 1727440516.7096996
+    },
+    {
+        "temperature": 25.74,
+        "pressure": 1012.86,
+        "timestamp": 1727440516.7097027
+    },
+    {
+        "temperature": 23.92,
+        "pressure": 993.58,
+        "timestamp": 1727440516.7097056
+    },
+    {
+        "temperature": 27.87,
+        "pressure": 1005.12,
+        "timestamp": 1727440516.7097085
+    },
+    {
+        "temperature": 22.87,
+        "pressure": 990.34,
+        "timestamp": 1727440516.7097116
+    },
+    {
+        "temperature": 22.58,
+        "pressure": 991.82,
+        "timestamp": 1727440516.7097147
+    },
+    {
+        "temperature": 26.53,
+        "pressure": 1014.65,
+        "timestamp": 1727440516.7097175
+    },
+    {
+        "temperature": 26.84,
+        "pressure": 1019.15,
+        "timestamp": 1727440516.709721
+    },
+    {
+        "temperature": 26.08,
+        "pressure": 1013.82,
+        "timestamp": 1727440516.7097242
+    },
+    {
+        "temperature": 26.71,
+        "pressure": 998.06,
+        "timestamp": 1727440516.709727
+    },
+    {
+        "temperature": 28.05,
+        "pressure": 992.96,
+        "timestamp": 1727440516.7097301
+    },
+    {
+        "temperature": 26.71,
+        "pressure": 1005.81,
+        "timestamp": 1727440516.7097337
+    },
+    {
+        "temperature": 26.99,
+        "pressure": 1011.52,
+        "timestamp": 1727440516.7097366
+    },
+    {
+        "temperature": 27.92,
+        "pressure": 1008.14,
+        "timestamp": 1727440516.7097397
+    },
+    {
+        "temperature": 24.16,
+        "pressure": 992.25,
+        "timestamp": 1727440516.7097425
+    },
+    {
+        "temperature": 26.32,
+        "pressure": 992.65,
+        "timestamp": 1727440516.7097456
+    },
+    {
+        "temperature": 28.12,
+        "pressure": 994.16,
+        "timestamp": 1727440516.7097487
+    },
+    {
+        "temperature": 25.73,
+        "pressure": 1012.93,
+        "timestamp": 1727440516.7097611
+    },
+    {
+        "temperature": 20.21,
+        "pressure": 1003.16,
+        "timestamp": 1727440516.709764
+    },
+    {
+        "temperature": 20.27,
+        "pressure": 1018.88,
+        "timestamp": 1727440516.709778
+    },
+    {
+        "temperature": 23.74,
+        "pressure": 1008.9,
+        "timestamp": 1727440516.7097812
+    },
+    {
+        "temperature": 27.13,
+        "pressure": 998.47,
+        "timestamp": 1727440516.7097843
+    },
+    {
+        "temperature": 29.07,
+        "pressure": 1007.12,
+        "timestamp": 1727440516.7097871
+    },
+    {
+        "temperature": 24.75,
+        "pressure": 1018.34,
+        "timestamp": 1727440516.7097902
+    },
+    {
+        "temperature": 24.0,
+        "pressure": 990.95,
+        "timestamp": 1727440516.7097933
+    },
+    {
+        "temperature": 22.19,
+        "pressure": 996.88,
+        "timestamp": 1727440516.7097964
+    },
+    {
+        "temperature": 22.29,
+        "pressure": 998.19,
+        "timestamp": 1727440516.7097995
+    },
+    {
+        "temperature": 23.48,
+        "pressure": 997.41,
+        "timestamp": 1727440516.7098029
+    },
+    {
+        "temperature": 24.49,
+        "pressure": 1011.49,
+        "timestamp": 1727440516.7098072
+    },
+    {
+        "temperature": 28.02,
+        "pressure": 1002.45,
+        "timestamp": 1727440516.7098153
+    },
+    {
+        "temperature": 21.77,
+        "pressure": 1002.47,
+        "timestamp": 1727440516.7098198
+    },
+    {
+        "temperature": 27.54,
+        "pressure": 1016.89,
+        "timestamp": 1727440516.7098227
+    },
+    {
+        "temperature": 21.39,
+        "pressure": 1002.58,
+        "timestamp": 1727440516.7098277
+    },
+    {
+        "temperature": 22.05,
+        "pressure": 1009.54,
+        "timestamp": 1727440516.709831
+    },
+    {
+        "temperature": 26.53,
+        "pressure": 1011.2,
+        "timestamp": 1727440516.7098336
+    },
+    {
+        "temperature": 27.02,
+        "pressure": 1016.89,
+        "timestamp": 1727440516.7098365
+    },
+    {
+        "temperature": 21.98,
+        "pressure": 1015.91,
+        "timestamp": 1727440516.7099593
+    },
+    {
+        "temperature": 29.1,
+        "pressure": 1009.25,
+        "timestamp": 1727440516.7099626
+    },
+    {
+        "temperature": 28.34,
+        "pressure": 1001.05,
+        "timestamp": 1727440516.7099655
+    },
+    {
+        "temperature": 20.85,
+        "pressure": 1019.49,
+        "timestamp": 1727440516.7099686
+    },
+    {
+        "temperature": 27.13,
+        "pressure": 999.83,
+        "timestamp": 1727440516.7099714
+    },
+    {
+        "temperature": 28.16,
+        "pressure": 1015.37,
+        "timestamp": 1727440516.7099757
+    },
+    {
+        "temperature": 22.02,
+        "pressure": 1006.99,
+        "timestamp": 1727440516.7099788
+    },
+    {
+        "temperature": 27.89,
+        "pressure": 1019.95,
+        "timestamp": 1727440516.7099848
+    },
+    {
+        "temperature": 23.85,
+        "pressure": 1015.13,
+        "timestamp": 1727440516.7099879
+    },
+    {
+        "temperature": 28.12,
+        "pressure": 1006.26,
+        "timestamp": 1727440516.7099922
+    },
+    {
+        "temperature": 23.11,
+        "pressure": 993.69,
+        "timestamp": 1727440516.7099955
+    },
+    {
+        "temperature": 27.26,
+        "pressure": 991.08,
+        "timestamp": 1727440516.7099984
+    },
+    {
+        "temperature": 26.05,
+        "pressure": 1000.28,
+        "timestamp": 1727440516.7100015
+    },
+    {
+        "temperature": 20.79,
+        "pressure": 992.62,
+        "timestamp": 1727440516.7100053
+    },
+    {
+        "temperature": 24.16,
+        "pressure": 1010.96,
+        "timestamp": 1727440516.7100081
+    },
+    {
+        "temperature": 24.89,
+        "pressure": 1000.34,
+        "timestamp": 1727440516.7100112
+    },
+    {
+        "temperature": 22.83,
+        "pressure": 1001.61,
+        "timestamp": 1727440516.710014
+    },
+    {
+        "temperature": 27.02,
+        "pressure": 994.33,
+        "timestamp": 1727440516.710017
+    },
+    {
+        "temperature": 24.61,
+        "pressure": 1007.27,
+        "timestamp": 1727440516.71002
+    },
+    {
+        "temperature": 24.57,
+        "pressure": 1000.08,
+        "timestamp": 1727440516.710023
+    },
+    {
+        "temperature": 24.27,
+        "pressure": 1003.94,
+        "timestamp": 1727440516.710026
+    },
+    {
+        "temperature": 29.27,
+        "pressure": 1008.82,
+        "timestamp": 1727440516.710029
+    },
+    {
+        "temperature": 28.84,
+        "pressure": 993.66,
+        "timestamp": 1727440516.710032
+    },
+    {
+        "temperature": 28.41,
+        "pressure": 1007.4,
+        "timestamp": 1727440516.7100348
+    },
+    {
+        "temperature": 28.33,
+        "pressure": 1019.02,
+        "timestamp": 1727440516.710038
+    },
+    {
+        "temperature": 27.23,
+        "pressure": 998.81,
+        "timestamp": 1727440516.7100568
+    },
+    {
+        "temperature": 24.33,
+        "pressure": 1004.06,
+        "timestamp": 1727440516.7100606
+    },
+    {
+        "temperature": 23.57,
+        "pressure": 1006.08,
+        "timestamp": 1727440516.7101512
+    },
+    {
+        "temperature": 28.79,
+        "pressure": 1017.05,
+        "timestamp": 1727440516.7101614
+    },
+    {
+        "temperature": 27.89,
+        "pressure": 993.54,
+        "timestamp": 1727440516.7101667
+    },
+    {
+        "temperature": 27.22,
+        "pressure": 991.68,
+        "timestamp": 1727440516.7101703
+    },
+    {
+        "temperature": 27.84,
+        "pressure": 993.91,
+        "timestamp": 1727440516.7101743
+    },
+    {
+        "temperature": 29.03,
+        "pressure": 1013.55,
+        "timestamp": 1727440516.7101772
+    },
+    {
+        "temperature": 27.47,
+        "pressure": 1018.03,
+        "timestamp": 1727440516.7101808
+    },
+    {
+        "temperature": 24.7,
+        "pressure": 999.39,
+        "timestamp": 1727440516.710184
+    },
+    {
+        "temperature": 20.35,
+        "pressure": 998.28,
+        "timestamp": 1727440516.7101882
+    },
+    {
+        "temperature": 22.16,
+        "pressure": 1004.55,
+        "timestamp": 1727440516.7101917
+    },
+    {
+        "temperature": 23.54,
+        "pressure": 1014.91,
+        "timestamp": 1727440516.7101953
+    },
+    {
+        "temperature": 28.39,
+        "pressure": 1008.95,
+        "timestamp": 1727440516.7101986
+    },
+    {
+        "temperature": 21.8,
+        "pressure": 1012.78,
+        "timestamp": 1727440516.7102153
+    },
+    {
+        "temperature": 22.35,
+        "pressure": 995.09,
+        "timestamp": 1727440516.710219
+    },
+    {
+        "temperature": 25.3,
+        "pressure": 993.32,
+        "timestamp": 1727440516.710222
+    },
+    {
+        "temperature": 29.6,
+        "pressure": 990.6,
+        "timestamp": 1727440516.7102292
+    },
+    {
+        "temperature": 26.66,
+        "pressure": 1000.12,
+        "timestamp": 1727440516.7102385
+    },
+    {
+        "temperature": 20.03,
+        "pressure": 1015.32,
+        "timestamp": 1727440516.7102423
+    },
+    {
+        "temperature": 27.57,
+        "pressure": 993.22,
+        "timestamp": 1727440516.710246
+    },
+    {
+        "temperature": 20.98,
+        "pressure": 1013.55,
+        "timestamp": 1727440516.7102497
+    },
+    {
+        "temperature": 21.15,
+        "pressure": 1011.61,
+        "timestamp": 1727440516.7102547
+    },
+    {
+        "temperature": 20.33,
+        "pressure": 1001.93,
+        "timestamp": 1727440516.7102582
+    },
+    {
+        "temperature": 28.52,
+        "pressure": 990.7,
+        "timestamp": 1727440516.7102616
+    },
+    {
+        "temperature": 24.41,
+        "pressure": 1005.32,
+        "timestamp": 1727440516.7102652
+    },
+    {
+        "temperature": 25.68,
+        "pressure": 1001.2,
+        "timestamp": 1727440516.7102687
+    },
+    {
+        "temperature": 20.84,
+        "pressure": 1005.22,
+        "timestamp": 1727440516.710272
+    },
+    {
+        "temperature": 23.01,
+        "pressure": 1000.06,
+        "timestamp": 1727440516.7102757
+    },
+    {
+        "temperature": 24.89,
+        "pressure": 1004.35,
+        "timestamp": 1727440516.7102792
+    },
+    {
+        "temperature": 21.07,
+        "pressure": 1007.46,
+        "timestamp": 1727440516.7102826
+    },
+    {
+        "temperature": 23.82,
+        "pressure": 1004.79,
+        "timestamp": 1727440516.7102861
+    },
+    {
+        "temperature": 29.93,
+        "pressure": 1002.88,
+        "timestamp": 1727440516.710296
+    },
+    {
+        "temperature": 26.27,
+        "pressure": 995.48,
+        "timestamp": 1727440516.7102997
+    },
+    {
+        "temperature": 23.35,
+        "pressure": 1007.92,
+        "timestamp": 1727440516.7103035
+    },
+    {
+        "temperature": 26.13,
+        "pressure": 994.89,
+        "timestamp": 1727440516.7103097
+    },
+    {
+        "temperature": 22.45,
+        "pressure": 1003.76,
+        "timestamp": 1727440516.7103136
+    },
+    {
+        "temperature": 20.75,
+        "pressure": 995.19,
+        "timestamp": 1727440516.7103171
+    },
+    {
+        "temperature": 20.81,
+        "pressure": 1006.76,
+        "timestamp": 1727440516.7103207
+    },
+    {
+        "temperature": 23.16,
+        "pressure": 1011.9,
+        "timestamp": 1727440516.710324
+    },
+    {
+        "temperature": 29.21,
+        "pressure": 1012.91,
+        "timestamp": 1727440516.7103274
+    },
+    {
+        "temperature": 29.42,
+        "pressure": 991.35,
+        "timestamp": 1727440516.7103305
+    },
+    {
+        "temperature": 29.53,
+        "pressure": 1001.86,
+        "timestamp": 1727440516.710334
+    },
+    {
+        "temperature": 26.26,
+        "pressure": 1010.71,
+        "timestamp": 1727440516.7103376
+    },
+    {
+        "temperature": 22.75,
+        "pressure": 1002.34,
+        "timestamp": 1727440516.710341
+    },
+    {
+        "temperature": 23.0,
+        "pressure": 1004.18,
+        "timestamp": 1727440516.7103448
+    },
+    {
+        "temperature": 21.54,
+        "pressure": 997.66,
+        "timestamp": 1727440516.7103484
+    },
+    {
+        "temperature": 23.57,
+        "pressure": 1009.37,
+        "timestamp": 1727440516.7103515
+    },
+    {
+        "temperature": 29.46,
+        "pressure": 1017.74,
+        "timestamp": 1727440516.710355
+    },
+    {
+        "temperature": 24.44,
+        "pressure": 1017.2,
+        "timestamp": 1727440516.7103586
+    },
+    {
+        "temperature": 22.22,
+        "pressure": 1008.08,
+        "timestamp": 1727440516.7103643
+    },
+    {
+        "temperature": 22.52,
+        "pressure": 1018.14,
+        "timestamp": 1727440516.710368
+    },
+    {
+        "temperature": 27.35,
+        "pressure": 991.51,
+        "timestamp": 1727440516.7103722
+    },
+    {
+        "temperature": 20.17,
+        "pressure": 1006.93,
+        "timestamp": 1727440516.710375
+    },
+    {
+        "temperature": 29.09,
+        "pressure": 1007.36,
+        "timestamp": 1727440516.7103786
+    },
+    {
+        "temperature": 21.81,
+        "pressure": 1000.55,
+        "timestamp": 1727440516.7103822
+    },
+    {
+        "temperature": 26.65,
+        "pressure": 1001.47,
+        "timestamp": 1727440516.7103853
+    },
+    {
+        "temperature": 27.89,
+        "pressure": 999.26,
+        "timestamp": 1727440516.710389
+    },
+    {
+        "temperature": 28.89,
+        "pressure": 1014.29,
+        "timestamp": 1727440516.7103925
+    },
+    {
+        "temperature": 22.18,
+        "pressure": 996.52,
+        "timestamp": 1727440516.7103958
+    },
+    {
+        "temperature": 28.09,
+        "pressure": 1011.21,
+        "timestamp": 1727440516.7103994
+    },
+    {
+        "temperature": 28.13,
+        "pressure": 1018.26,
+        "timestamp": 1727440516.7104099
+    },
+    {
+        "temperature": 26.67,
+        "pressure": 993.61,
+        "timestamp": 1727440516.7104135
+    },
+    {
+        "temperature": 27.68,
+        "pressure": 1003.79,
+        "timestamp": 1727440516.7104173
+    },
+    {
+        "temperature": 21.34,
+        "pressure": 1006.31,
+        "timestamp": 1727440516.7104259
+    },
+    {
+        "temperature": 28.79,
+        "pressure": 1019.87,
+        "timestamp": 1727440516.710429
+    },
+    {
+        "temperature": 21.04,
+        "pressure": 1019.63,
+        "timestamp": 1727440516.7104325
+    },
+    {
+        "temperature": 29.07,
+        "pressure": 998.73,
+        "timestamp": 1727440516.7104387
+    },
+    {
+        "temperature": 29.64,
+        "pressure": 1006.86,
+        "timestamp": 1727440516.710444
+    },
+    {
+        "temperature": 23.92,
+        "pressure": 1006.81,
+        "timestamp": 1727440516.7104475
+    },
+    {
+        "temperature": 26.9,
+        "pressure": 1010.24,
+        "timestamp": 1727440516.7104511
+    },
+    {
+        "temperature": 21.3,
+        "pressure": 1010.36,
+        "timestamp": 1727440516.7104545
+    },
+    {
+        "temperature": 22.23,
+        "pressure": 1016.43,
+        "timestamp": 1727440516.710458
+    },
+    {
+        "temperature": 20.89,
+        "pressure": 1019.56,
+        "timestamp": 1727440516.7104616
+    },
+    {
+        "temperature": 21.15,
+        "pressure": 1019.3,
+        "timestamp": 1727440516.7104766
+    },
+    {
+        "temperature": 27.25,
+        "pressure": 1018.21,
+        "timestamp": 1727440516.7104795
+    },
+    {
+        "temperature": 29.74,
+        "pressure": 1003.49,
+        "timestamp": 1727440516.7104836
+    },
+    {
+        "temperature": 21.11,
+        "pressure": 998.83,
+        "timestamp": 1727440516.710487
+    },
+    {
+        "temperature": 21.39,
+        "pressure": 1011.88,
+        "timestamp": 1727440516.7104902
+    },
+    {
+        "temperature": 20.86,
+        "pressure": 991.83,
+        "timestamp": 1727440516.7104938
+    },
+    {
+        "temperature": 28.57,
+        "pressure": 994.73,
+        "timestamp": 1727440516.7104974
+    },
+    {
+        "temperature": 24.9,
+        "pressure": 997.6,
+        "timestamp": 1727440516.7105007
+    },
+    {
+        "temperature": 27.44,
+        "pressure": 998.85,
+        "timestamp": 1727440516.7105043
+    },
+    {
+        "temperature": 20.96,
+        "pressure": 1005.33,
+        "timestamp": 1727440516.7105076
+    },
+    {
+        "temperature": 22.32,
+        "pressure": 1008.97,
+        "timestamp": 1727440516.710512
+    },
+    {
+        "temperature": 22.53,
+        "pressure": 992.79,
+        "timestamp": 1727440516.7105155
+    },
+    {
+        "temperature": 29.0,
+        "pressure": 1001.11,
+        "timestamp": 1727440516.7105188
+    },
+    {
+        "temperature": 23.81,
+        "pressure": 990.27,
+        "timestamp": 1727440516.7105222
+    },
+    {
+        "temperature": 21.78,
+        "pressure": 1012.05,
+        "timestamp": 1727440516.7105255
+    },
+    {
+        "temperature": 27.95,
+        "pressure": 1010.08,
+        "timestamp": 1727440516.710529
+    },
+    {
+        "temperature": 22.47,
+        "pressure": 1018.21,
+        "timestamp": 1727440516.7105327
+    },
+    {
+        "temperature": 27.83,
+        "pressure": 1015.12,
+        "timestamp": 1727440516.7105362
+    },
+    {
+        "temperature": 23.18,
+        "pressure": 1018.55,
+        "timestamp": 1727440516.7105398
+    },
+    {
+        "temperature": 23.29,
+        "pressure": 1008.32,
+        "timestamp": 1727440516.7105434
+    },
+    {
+        "temperature": 27.7,
+        "pressure": 1010.5,
+        "timestamp": 1727440516.7105517
+    },
+    {
+        "temperature": 26.27,
+        "pressure": 1000.65,
+        "timestamp": 1727440516.7105553
+    },
+    {
+        "temperature": 23.7,
+        "pressure": 1015.24,
+        "timestamp": 1727440516.7105658
+    },
+    {
+        "temperature": 21.29,
+        "pressure": 1001.87,
+        "timestamp": 1727440516.7105691
+    },
+    {
+        "temperature": 25.83,
+        "pressure": 1011.11,
+        "timestamp": 1727440516.7105727
+    },
+    {
+        "temperature": 29.6,
+        "pressure": 1014.52,
+        "timestamp": 1727440516.7105784
+    },
+    {
+        "temperature": 21.95,
+        "pressure": 1013.86,
+        "timestamp": 1727440516.710584
+    },
+    {
+        "temperature": 27.81,
+        "pressure": 1006.46,
+        "timestamp": 1727440516.7105875
+    },
+    {
+        "temperature": 23.36,
+        "pressure": 1000.35,
+        "timestamp": 1727440516.7105906
+    },
+    {
+        "temperature": 24.98,
+        "pressure": 1018.67,
+        "timestamp": 1727440516.7105944
+    },
+    {
+        "temperature": 26.42,
+        "pressure": 1001.29,
+        "timestamp": 1727440516.710598
+    },
+    {
+        "temperature": 28.79,
+        "pressure": 1019.93,
+        "timestamp": 1727440516.7106013
+    },
+    {
+        "temperature": 25.75,
+        "pressure": 1012.96,
+        "timestamp": 1727440516.710605
+    },
+    {
+        "temperature": 28.63,
+        "pressure": 999.66,
+        "timestamp": 1727440516.7106082
+    },
+    {
+        "temperature": 22.72,
+        "pressure": 994.54,
+        "timestamp": 1727440516.7106113
+    },
+    {
+        "temperature": 26.73,
+        "pressure": 997.29,
+        "timestamp": 1727440516.7106152
+    },
+    {
+        "temperature": 26.26,
+        "pressure": 1007.9,
+        "timestamp": 1727440516.7106187
+    },
+    {
+        "temperature": 26.73,
+        "pressure": 1008.29,
+        "timestamp": 1727440516.7106218
+    },
+    {
+        "temperature": 26.66,
+        "pressure": 993.22,
+        "timestamp": 1727440516.7106252
+    },
+    {
+        "temperature": 26.79,
+        "pressure": 998.49,
+        "timestamp": 1727440516.7106285
+    },
+    {
+        "temperature": 23.29,
+        "pressure": 1004.36,
+        "timestamp": 1727440516.7106326
+    },
+    {
+        "temperature": 21.65,
+        "pressure": 1017.25,
+        "timestamp": 1727440516.7106357
+    },
+    {
+        "temperature": 24.76,
+        "pressure": 1002.94,
+        "timestamp": 1727440516.7106397
+    },
+    {
+        "temperature": 25.8,
+        "pressure": 1010.95,
+        "timestamp": 1727440516.7106435
+    },
+    {
+        "temperature": 29.71,
+        "pressure": 1012.65,
+        "timestamp": 1727440516.710647
+    },
+    {
+        "temperature": 29.06,
+        "pressure": 990.48,
+        "timestamp": 1727440516.7106507
+    },
+    {
+        "temperature": 28.62,
+        "pressure": 995.5,
+        "timestamp": 1727440516.710654
+    },
+    {
+        "temperature": 20.77,
+        "pressure": 1006.88,
+        "timestamp": 1727440516.7106576
+    },
+    {
+        "temperature": 28.19,
+        "pressure": 990.05,
+        "timestamp": 1727440516.7106612
+    },
+    {
+        "temperature": 26.91,
+        "pressure": 990.21,
+        "timestamp": 1727440516.7106645
+    },
+    {
+        "temperature": 26.52,
+        "pressure": 1008.99,
+        "timestamp": 1727440516.7106678
+    },
+    {
+        "temperature": 27.02,
+        "pressure": 1015.85,
+        "timestamp": 1727440516.7106729
+    },
+    {
+        "temperature": 21.38,
+        "pressure": 1009.2,
+        "timestamp": 1727440516.7106764
+    },
+    {
+        "temperature": 27.77,
+        "pressure": 1019.49,
+        "timestamp": 1727440516.7106795
+    },
+    {
+        "temperature": 25.87,
+        "pressure": 1009.07,
+        "timestamp": 1727440516.710683
+    },
+    {
+        "temperature": 24.27,
+        "pressure": 1002.52,
+        "timestamp": 1727440516.7106864
+    },
+    {
+        "temperature": 21.09,
+        "pressure": 994.64,
+        "timestamp": 1727440516.71069
+    },
+    {
+        "temperature": 20.19,
+        "pressure": 1007.39,
+        "timestamp": 1727440516.7108223
+    },
+    {
+        "temperature": 25.08,
+        "pressure": 996.4,
+        "timestamp": 1727440516.710826
+    },
+    {
+        "temperature": 23.56,
+        "pressure": 991.78,
+        "timestamp": 1727440516.710829
+    },
+    {
+        "temperature": 24.84,
+        "pressure": 1010.02,
+        "timestamp": 1727440516.7108352
+    },
+    {
+        "temperature": 25.58,
+        "pressure": 1008.79,
+        "timestamp": 1727440516.7108386
+    },
+    {
+        "temperature": 26.16,
+        "pressure": 1013.96,
+        "timestamp": 1727440516.7108414
+    },
+    {
+        "temperature": 23.26,
+        "pressure": 1010.23,
+        "timestamp": 1727440516.7108445
+    },
+    {
+        "temperature": 24.95,
+        "pressure": 1007.97,
+        "timestamp": 1727440516.7108471
+    },
+    {
+        "temperature": 20.08,
+        "pressure": 1003.12,
+        "timestamp": 1727440516.7108502
+    },
+    {
+        "temperature": 22.03,
+        "pressure": 1015.06,
+        "timestamp": 1727440516.7108533
+    },
+    {
+        "temperature": 29.65,
+        "pressure": 999.22,
+        "timestamp": 1727440516.7108562
+    },
+    {
+        "temperature": 20.2,
+        "pressure": 1002.26,
+        "timestamp": 1727440516.7108598
+    },
+    {
+        "temperature": 24.57,
+        "pressure": 1013.22,
+        "timestamp": 1727440516.7108634
+    },
+    {
+        "temperature": 25.12,
+        "pressure": 1017.84,
+        "timestamp": 1727440516.7108667
+    },
+    {
+        "temperature": 26.03,
+        "pressure": 995.04,
+        "timestamp": 1727440516.71087
+    },
+    {
+        "temperature": 29.17,
+        "pressure": 992.89,
+        "timestamp": 1727440516.7108855
+    },
+    {
+        "temperature": 23.34,
+        "pressure": 994.9,
+        "timestamp": 1727440516.710889
+    },
+    {
+        "temperature": 21.86,
+        "pressure": 998.42,
+        "timestamp": 1727440516.7108922
+    },
+    {
+        "temperature": 27.69,
+        "pressure": 1019.48,
+        "timestamp": 1727440516.7108955
+    },
+    {
+        "temperature": 29.68,
+        "pressure": 992.58,
+        "timestamp": 1727440516.7109
+    },
+    {
+        "temperature": 25.46,
+        "pressure": 994.9,
+        "timestamp": 1727440516.7109036
+    },
+    {
+        "temperature": 22.74,
+        "pressure": 1004.26,
+        "timestamp": 1727440516.7109065
+    },
+    {
+        "temperature": 27.15,
+        "pressure": 997.27,
+        "timestamp": 1727440516.7109103
+    },
+    {
+        "temperature": 28.31,
+        "pressure": 1012.02,
+        "timestamp": 1727440516.710914
+    },
+    {
+        "temperature": 29.29,
+        "pressure": 1016.15,
+        "timestamp": 1727440516.7109168
+    },
+    {
+        "temperature": 25.27,
+        "pressure": 1018.59,
+        "timestamp": 1727440516.7109203
+    },
+    {
+        "temperature": 24.57,
+        "pressure": 1005.86,
+        "timestamp": 1727440516.7109241
+    },
+    {
+        "temperature": 22.24,
+        "pressure": 1012.31,
+        "timestamp": 1727440516.710928
+    },
+    {
+        "temperature": 22.78,
+        "pressure": 1013.42,
+        "timestamp": 1727440516.7109313
+    },
+    {
+        "temperature": 28.77,
+        "pressure": 1001.09,
+        "timestamp": 1727440516.7109444
+    },
+    {
+        "temperature": 22.95,
+        "pressure": 990.05,
+        "timestamp": 1727440516.7109478
+    },
+    {
+        "temperature": 21.36,
+        "pressure": 1001.05,
+        "timestamp": 1727440516.710951
+    },
+    {
+        "temperature": 27.34,
+        "pressure": 1017.16,
+        "timestamp": 1727440516.710958
+    },
+    {
+        "temperature": 29.21,
+        "pressure": 1014.77,
+        "timestamp": 1727440516.7109616
+    },
+    {
+        "temperature": 28.89,
+        "pressure": 1013.31,
+        "timestamp": 1727440516.7109647
+    },
+    {
+        "temperature": 29.66,
+        "pressure": 1013.81,
+        "timestamp": 1727440516.7109683
+    },
+    {
+        "temperature": 25.88,
+        "pressure": 1004.73,
+        "timestamp": 1727440516.710972
+    },
+    {
+        "temperature": 25.49,
+        "pressure": 1004.94,
+        "timestamp": 1727440516.7109754
+    },
+    {
+        "temperature": 22.58,
+        "pressure": 997.73,
+        "timestamp": 1727440516.710979
+    },
+    {
+        "temperature": 20.2,
+        "pressure": 994.35,
+        "timestamp": 1727440516.7109826
+    },
+    {
+        "temperature": 25.15,
+        "pressure": 1015.5,
+        "timestamp": 1727440516.7109857
+    },
+    {
+        "temperature": 23.42,
+        "pressure": 1007.59,
+        "timestamp": 1727440516.710989
+    },
+    {
+        "temperature": 22.45,
+        "pressure": 1007.58,
+        "timestamp": 1727440516.710992
+    },
+    {
+        "temperature": 23.71,
+        "pressure": 1013.68,
+        "timestamp": 1727440516.710997
+    },
+    {
+        "temperature": 26.48,
+        "pressure": 999.03,
+        "timestamp": 1727440516.7110007
+    },
+    {
+        "temperature": 28.13,
+        "pressure": 1016.65,
+        "timestamp": 1727440516.7110043
+    },
+    {
+        "temperature": 22.77,
+        "pressure": 1006.54,
+        "timestamp": 1727440516.7110076
+    },
+    {
+        "temperature": 23.13,
+        "pressure": 1011.4,
+        "timestamp": 1727440516.7110112
+    },
+    {
+        "temperature": 28.83,
+        "pressure": 1017.98,
+        "timestamp": 1727440516.7110145
+    },
+    {
+        "temperature": 29.74,
+        "pressure": 1007.66,
+        "timestamp": 1727440516.711018
+    },
+    {
+        "temperature": 25.54,
+        "pressure": 1002.8,
+        "timestamp": 1727440516.7110217
+    },
+    {
+        "temperature": 21.8,
+        "pressure": 996.13,
+        "timestamp": 1727440516.7110252
+    },
+    {
+        "temperature": 28.54,
+        "pressure": 996.65,
+        "timestamp": 1727440516.7110286
+    },
+    {
+        "temperature": 23.34,
+        "pressure": 1008.17,
+        "timestamp": 1727440516.711034
+    },
+    {
+        "temperature": 20.6,
+        "pressure": 992.24,
+        "timestamp": 1727440516.7110376
+    },
+    {
+        "temperature": 20.2,
+        "pressure": 1002.84,
+        "timestamp": 1727440516.7110407
+    },
+    {
+        "temperature": 20.4,
+        "pressure": 1019.94,
+        "timestamp": 1727440516.7110443
+    },
+    {
+        "temperature": 26.25,
+        "pressure": 997.53,
+        "timestamp": 1727440516.7110476
+    },
+    {
+        "temperature": 20.01,
+        "pressure": 1005.99,
+        "timestamp": 1727440516.7110596
+    },
+    {
+        "temperature": 26.62,
+        "pressure": 1009.73,
+        "timestamp": 1727440516.7110653
+    },
+    {
+        "temperature": 29.16,
+        "pressure": 1002.89,
+        "timestamp": 1727440516.7110689
+    },
+    {
+        "temperature": 29.99,
+        "pressure": 996.42,
+        "timestamp": 1727440516.711078
+    },
+    {
+        "temperature": 24.8,
+        "pressure": 1012.18,
+        "timestamp": 1727440516.711081
+    },
+    {
+        "temperature": 23.93,
+        "pressure": 1010.68,
+        "timestamp": 1727440516.7110846
+    },
+    {
+        "temperature": 27.45,
+        "pressure": 992.68,
+        "timestamp": 1727440516.71109
+    },
+    {
+        "temperature": 22.17,
+        "pressure": 1006.8,
+        "timestamp": 1727440516.7110994
+    },
+    {
+        "temperature": 26.5,
+        "pressure": 1010.52,
+        "timestamp": 1727440516.711103
+    },
+    {
+        "temperature": 21.96,
+        "pressure": 1019.83,
+        "timestamp": 1727440516.7111063
+    },
+    {
+        "temperature": 21.73,
+        "pressure": 1008.1,
+        "timestamp": 1727440516.71111
+    },
+    {
+        "temperature": 21.22,
+        "pressure": 1006.21,
+        "timestamp": 1727440516.7111142
+    },
+    {
+        "temperature": 26.41,
+        "pressure": 1004.76,
+        "timestamp": 1727440516.7111177
+    },
+    {
+        "temperature": 29.32,
+        "pressure": 1018.33,
+        "timestamp": 1727440516.7111213
+    },
+    {
+        "temperature": 26.97,
+        "pressure": 995.9,
+        "timestamp": 1727440516.711125
+    },
+    {
+        "temperature": 20.94,
+        "pressure": 1005.07,
+        "timestamp": 1727440516.7111285
+    },
+    {
+        "temperature": 27.04,
+        "pressure": 1012.07,
+        "timestamp": 1727440516.7111318
+    },
+    {
+        "temperature": 28.95,
+        "pressure": 995.74,
+        "timestamp": 1727440516.7111356
+    },
+    {
+        "temperature": 29.42,
+        "pressure": 1013.03,
+        "timestamp": 1727440516.7111394
+    },
+    {
+        "temperature": 22.8,
+        "pressure": 1004.25,
+        "timestamp": 1727440516.7111423
+    },
+    {
+        "temperature": 24.96,
+        "pressure": 1009.97,
+        "timestamp": 1727440516.7111459
+    },
+    {
+        "temperature": 25.71,
+        "pressure": 1016.67,
+        "timestamp": 1727440516.7111495
+    },
+    {
+        "temperature": 23.66,
+        "pressure": 991.76,
+        "timestamp": 1727440516.711155
+    },
+    {
+        "temperature": 27.19,
+        "pressure": 994.33,
+        "timestamp": 1727440516.7111583
+    },
+    {
+        "temperature": 21.57,
+        "pressure": 996.19,
+        "timestamp": 1727440516.7111619
+    },
+    {
+        "temperature": 22.7,
+        "pressure": 1007.11,
+        "timestamp": 1727440516.7111654
+    },
+    {
+        "temperature": 27.23,
+        "pressure": 1001.32,
+        "timestamp": 1727440516.7111688
+    },
+    {
+        "temperature": 22.39,
+        "pressure": 1016.49,
+        "timestamp": 1727440516.7111723
+    },
+    {
+        "temperature": 25.4,
+        "pressure": 997.96,
+        "timestamp": 1727440516.7111783
+    },
+    {
+        "temperature": 24.06,
+        "pressure": 1007.51,
+        "timestamp": 1727440516.7111819
+    },
+    {
+        "temperature": 24.88,
+        "pressure": 993.11,
+        "timestamp": 1727440516.7111852
+    },
+    {
+        "temperature": 20.62,
+        "pressure": 1002.3,
+        "timestamp": 1727440516.711189
+    },
+    {
+        "temperature": 23.29,
+        "pressure": 1005.72,
+        "timestamp": 1727440516.7111926
+    },
+    {
+        "temperature": 20.43,
+        "pressure": 1019.49,
+        "timestamp": 1727440516.7111962
+    },
+    {
+        "temperature": 28.49,
+        "pressure": 999.59,
+        "timestamp": 1727440516.7111998
+    },
+    {
+        "temperature": 29.6,
+        "pressure": 1005.66,
+        "timestamp": 1727440516.7112103
+    },
+    {
+        "temperature": 29.64,
+        "pressure": 1007.32,
+        "timestamp": 1727440516.7112138
+    },
+    {
+        "temperature": 22.02,
+        "pressure": 1008.43,
+        "timestamp": 1727440516.711217
+    },
+    {
+        "temperature": 25.62,
+        "pressure": 1010.75,
+        "timestamp": 1727440516.7112224
+    },
+    {
+        "temperature": 23.89,
+        "pressure": 1007.04,
+        "timestamp": 1727440516.7112262
+    },
+    {
+        "temperature": 22.21,
+        "pressure": 1014.5,
+        "timestamp": 1727440516.7112293
+    },
+    {
+        "temperature": 23.52,
+        "pressure": 1001.62,
+        "timestamp": 1727440516.7112327
+    },
+    {
+        "temperature": 22.2,
+        "pressure": 1007.72,
+        "timestamp": 1727440516.7112417
+    },
+    {
+        "temperature": 26.96,
+        "pressure": 1009.7,
+        "timestamp": 1727440516.7112453
+    },
+    {
+        "temperature": 25.03,
+        "pressure": 1018.99,
+        "timestamp": 1727440516.7112486
+    },
+    {
+        "temperature": 22.84,
+        "pressure": 995.1,
+        "timestamp": 1727440516.7112527
+    },
+    {
+        "temperature": 20.51,
+        "pressure": 993.55,
+        "timestamp": 1727440516.7112563
+    },
+    {
+        "temperature": 27.46,
+        "pressure": 1001.93,
+        "timestamp": 1727440516.7112596
+    },
+    {
+        "temperature": 26.09,
+        "pressure": 1011.81,
+        "timestamp": 1727440516.7112627
+    },
+    {
+        "temperature": 21.24,
+        "pressure": 1010.69,
+        "timestamp": 1727440516.7112663
+    },
+    {
+        "temperature": 28.08,
+        "pressure": 1017.61,
+        "timestamp": 1727440516.7112699
+    },
+    {
+        "temperature": 29.08,
+        "pressure": 1015.8,
+        "timestamp": 1727440516.7112734
+    },
+    {
+        "temperature": 26.59,
+        "pressure": 997.36,
+        "timestamp": 1727440516.7112765
+    },
+    {
+        "temperature": 22.2,
+        "pressure": 1009.15,
+        "timestamp": 1727440516.7112799
+    },
+    {
+        "temperature": 25.87,
+        "pressure": 996.32,
+        "timestamp": 1727440516.7112832
+    },
+    {
+        "temperature": 24.96,
+        "pressure": 997.35,
+        "timestamp": 1727440516.7112865
+    },
+    {
+        "temperature": 21.91,
+        "pressure": 995.8,
+        "timestamp": 1727440516.7112901
+    },
+    {
+        "temperature": 29.37,
+        "pressure": 1018.59,
+        "timestamp": 1727440516.7112947
+    },
+    {
+        "temperature": 25.46,
+        "pressure": 1008.2,
+        "timestamp": 1727440516.7112985
+    },
+    {
+        "temperature": 28.95,
+        "pressure": 1011.01,
+        "timestamp": 1727440516.7113018
+    },
+    {
+        "temperature": 21.44,
+        "pressure": 991.84,
+        "timestamp": 1727440516.7113051
+    },
+    {
+        "temperature": 27.21,
+        "pressure": 1000.39,
+        "timestamp": 1727440516.711309
+    },
+    {
+        "temperature": 27.67,
+        "pressure": 991.24,
+        "timestamp": 1727440516.7113123
+    },
+    {
+        "temperature": 24.01,
+        "pressure": 997.29,
+        "timestamp": 1727440516.7113156
+    },
+    {
+        "temperature": 27.52,
+        "pressure": 1013.84,
+        "timestamp": 1727440516.7113192
+    },
+    {
+        "temperature": 28.33,
+        "pressure": 1011.58,
+        "timestamp": 1727440516.711325
+    },
+    {
+        "temperature": 27.04,
+        "pressure": 1014.86,
+        "timestamp": 1727440516.7113283
+    },
+    {
+        "temperature": 25.7,
+        "pressure": 1008.15,
+        "timestamp": 1727440516.7113385
+    },
+    {
+        "temperature": 20.56,
+        "pressure": 1017.04,
+        "timestamp": 1727440516.711342
+    },
+    {
+        "temperature": 29.2,
+        "pressure": 991.97,
+        "timestamp": 1727440516.7113452
+    },
+    {
+        "temperature": 28.46,
+        "pressure": 1018.97,
+        "timestamp": 1727440516.7113507
+    },
+    {
+        "temperature": 21.13,
+        "pressure": 995.36,
+        "timestamp": 1727440516.71136
+    },
+    {
+        "temperature": 26.86,
+        "pressure": 1014.4,
+        "timestamp": 1727440516.711363
+    },
+    {
+        "temperature": 25.69,
+        "pressure": 1018.74,
+        "timestamp": 1727440516.7113786
+    },
+    {
+        "temperature": 25.99,
+        "pressure": 1009.76,
+        "timestamp": 1727440516.7113824
+    },
+    {
+        "temperature": 25.15,
+        "pressure": 1013.72,
+        "timestamp": 1727440516.711386
+    },
+    {
+        "temperature": 29.74,
+        "pressure": 1001.23,
+        "timestamp": 1727440516.7113893
+    },
+    {
+        "temperature": 22.45,
+        "pressure": 1010.53,
+        "timestamp": 1727440516.7113924
+    },
+    {
+        "temperature": 21.69,
+        "pressure": 1018.8,
+        "timestamp": 1727440516.7113986
+    },
+    {
+        "temperature": 21.42,
+        "pressure": 999.61,
+        "timestamp": 1727440516.711402
+    },
+    {
+        "temperature": 22.51,
+        "pressure": 1013.67,
+        "timestamp": 1727440516.7114053
+    },
+    {
+        "temperature": 23.89,
+        "pressure": 1005.75,
+        "timestamp": 1727440516.7114153
+    },
+    {
+        "temperature": 23.67,
+        "pressure": 1018.45,
+        "timestamp": 1727440516.7114189
+    },
+    {
+        "temperature": 25.97,
+        "pressure": 997.0,
+        "timestamp": 1727440516.7114222
+    },
+    {
+        "temperature": 21.94,
+        "pressure": 998.69,
+        "timestamp": 1727440516.7114258
+    },
+    {
+        "temperature": 22.61,
+        "pressure": 997.13,
+        "timestamp": 1727440516.7114346
+    },
+    {
+        "temperature": 21.41,
+        "pressure": 1016.21,
+        "timestamp": 1727440516.7114384
+    },
+    {
+        "temperature": 21.59,
+        "pressure": 990.08,
+        "timestamp": 1727440516.7114418
+    },
+    {
+        "temperature": 22.92,
+        "pressure": 1013.31,
+        "timestamp": 1727440516.711445
+    },
+    {
+        "temperature": 29.24,
+        "pressure": 995.45,
+        "timestamp": 1727440516.7114487
+    },
+    {
+        "temperature": 23.11,
+        "pressure": 990.14,
+        "timestamp": 1727440516.711452
+    },
+    {
+        "temperature": 27.47,
+        "pressure": 1018.12,
+        "timestamp": 1727440516.7114546
+    },
+    {
+        "temperature": 23.73,
+        "pressure": 999.52,
+        "timestamp": 1727440516.7114599
+    },
+    {
+        "temperature": 25.29,
+        "pressure": 990.33,
+        "timestamp": 1727440516.7114632
+    },
+    {
+        "temperature": 26.69,
+        "pressure": 991.64,
+        "timestamp": 1727440516.7114666
+    },
+    {
+        "temperature": 24.27,
+        "pressure": 1007.39,
+        "timestamp": 1727440516.7114704
+    },
+    {
+        "temperature": 25.54,
+        "pressure": 1001.56,
+        "timestamp": 1727440516.7114735
+    },
+    {
+        "temperature": 25.86,
+        "pressure": 1008.06,
+        "timestamp": 1727440516.7114768
+    },
+    {
+        "temperature": 22.55,
+        "pressure": 992.44,
+        "timestamp": 1727440516.7114797
+    },
+    {
+        "temperature": 22.02,
+        "pressure": 1005.57,
+        "timestamp": 1727440516.7114894
+    },
+    {
+        "temperature": 28.81,
+        "pressure": 1004.78,
+        "timestamp": 1727440516.7114925
+    },
+    {
+        "temperature": 23.54,
+        "pressure": 1010.67,
+        "timestamp": 1727440516.7114954
+    },
+    {
+        "temperature": 21.0,
+        "pressure": 1016.26,
+        "timestamp": 1727440516.7115016
+    },
+    {
+        "temperature": 25.04,
+        "pressure": 1013.58,
+        "timestamp": 1727440516.7115047
+    },
+    {
+        "temperature": 25.02,
+        "pressure": 1017.24,
+        "timestamp": 1727440516.7115078
+    },
+    {
+        "temperature": 20.58,
+        "pressure": 1016.89,
+        "timestamp": 1727440516.711511
+    },
+    {
+        "temperature": 25.12,
+        "pressure": 999.94,
+        "timestamp": 1727440516.711514
+    },
+    {
+        "temperature": 25.78,
+        "pressure": 1017.12,
+        "timestamp": 1727440516.7115169
+    },
+    {
+        "temperature": 29.22,
+        "pressure": 996.64,
+        "timestamp": 1727440516.7115197
+    },
+    {
+        "temperature": 23.55,
+        "pressure": 1019.92,
+        "timestamp": 1727440516.711523
+    },
+    {
+        "temperature": 23.38,
+        "pressure": 1016.98,
+        "timestamp": 1727440516.7115264
+    },
+    {
+        "temperature": 24.36,
+        "pressure": 1015.57,
+        "timestamp": 1727440516.7115326
+    },
+    {
+        "temperature": 20.15,
+        "pressure": 1019.46,
+        "timestamp": 1727440516.7115364
+    },
+    {
+        "temperature": 21.67,
+        "pressure": 996.58,
+        "timestamp": 1727440516.7115405
+    },
+    {
+        "temperature": 29.54,
+        "pressure": 1005.89,
+        "timestamp": 1727440516.7115436
+    },
+    {
+        "temperature": 26.6,
+        "pressure": 991.46,
+        "timestamp": 1727440516.7115471
+    },
+    {
+        "temperature": 29.35,
+        "pressure": 994.97,
+        "timestamp": 1727440516.7115505
+    },
+    {
+        "temperature": 24.66,
+        "pressure": 993.42,
+        "timestamp": 1727440516.7115538
+    },
+    {
+        "temperature": 25.62,
+        "pressure": 1000.15,
+        "timestamp": 1727440516.7115574
+    },
+    {
+        "temperature": 23.24,
+        "pressure": 994.6,
+        "timestamp": 1727440516.7115607
+    },
+    {
+        "temperature": 23.38,
+        "pressure": 995.63,
+        "timestamp": 1727440516.711564
+    },
+    {
+        "temperature": 21.01,
+        "pressure": 1018.89,
+        "timestamp": 1727440516.7115676
+    },
+    {
+        "temperature": 21.97,
+        "pressure": 993.89,
+        "timestamp": 1727440516.7115707
+    },
+    {
+        "temperature": 24.04,
+        "pressure": 1000.19,
+        "timestamp": 1727440516.7115743
+    },
+    {
+        "temperature": 24.08,
+        "pressure": 1001.03,
+        "timestamp": 1727440516.7115777
+    },
+    {
+        "temperature": 29.24,
+        "pressure": 993.46,
+        "timestamp": 1727440516.711581
+    },
+    {
+        "temperature": 23.48,
+        "pressure": 997.61,
+        "timestamp": 1727440516.7115846
+    },
+    {
+        "temperature": 23.35,
+        "pressure": 993.81,
+        "timestamp": 1727440516.7115881
+    },
+    {
+        "temperature": 27.04,
+        "pressure": 993.41,
+        "timestamp": 1727440516.7116005
+    },
+    {
+        "temperature": 27.9,
+        "pressure": 1006.44,
+        "timestamp": 1727440516.7116065
+    },
+    {
+        "temperature": 21.46,
+        "pressure": 1018.58,
+        "timestamp": 1727440516.71161
+    },
+    {
+        "temperature": 26.13,
+        "pressure": 994.76,
+        "timestamp": 1727440516.711619
+    },
+    {
+        "temperature": 27.2,
+        "pressure": 1014.83,
+        "timestamp": 1727440516.7116222
+    },
+    {
+        "temperature": 20.32,
+        "pressure": 998.23,
+        "timestamp": 1727440516.7116258
+    },
+    {
+        "temperature": 26.32,
+        "pressure": 1019.69,
+        "timestamp": 1727440516.711631
+    },
+    {
+        "temperature": 26.98,
+        "pressure": 1014.86,
+        "timestamp": 1727440516.7116404
+    },
+    {
+        "temperature": 26.97,
+        "pressure": 1011.55,
+        "timestamp": 1727440516.711644
+    },
+    {
+        "temperature": 25.43,
+        "pressure": 1002.12,
+        "timestamp": 1727440516.7116473
+    },
+    {
+        "temperature": 20.93,
+        "pressure": 994.91,
+        "timestamp": 1727440516.7116506
+    },
+    {
+        "temperature": 22.11,
+        "pressure": 1012.92,
+        "timestamp": 1727440516.7116542
+    },
+    {
+        "temperature": 27.24,
+        "pressure": 1012.46,
+        "timestamp": 1727440516.7116575
+    },
+    {
+        "temperature": 26.49,
+        "pressure": 1005.79,
+        "timestamp": 1727440516.7116609
+    },
+    {
+        "temperature": 26.52,
+        "pressure": 996.84,
+        "timestamp": 1727440516.7116644
+    },
+    {
+        "temperature": 25.11,
+        "pressure": 995.41,
+        "timestamp": 1727440516.7116678
+    },
+    {
+        "temperature": 29.59,
+        "pressure": 1006.07,
+        "timestamp": 1727440516.7116718
+    },
+    {
+        "temperature": 21.47,
+        "pressure": 992.6,
+        "timestamp": 1727440516.711676
+    },
+    {
+        "temperature": 26.84,
+        "pressure": 1008.77,
+        "timestamp": 1727440516.7116792
+    },
+    {
+        "temperature": 25.55,
+        "pressure": 1014.25,
+        "timestamp": 1727440516.7116828
+    },
+    {
+        "temperature": 26.26,
+        "pressure": 1003.84,
+        "timestamp": 1727440516.7116864
+    },
+    {
+        "temperature": 29.06,
+        "pressure": 995.53,
+        "timestamp": 1727440516.7116895
+    },
+    {
+        "temperature": 28.29,
+        "pressure": 1009.61,
+        "timestamp": 1727440516.7116928
+    },
+    {
+        "temperature": 29.02,
+        "pressure": 1011.84,
+        "timestamp": 1727440516.7116961
+    },
+    {
+        "temperature": 26.68,
+        "pressure": 1003.34,
+        "timestamp": 1727440516.7116995
+    },
+    {
+        "temperature": 25.76,
+        "pressure": 998.49,
+        "timestamp": 1727440516.7117028
+    },
+    {
+        "temperature": 26.42,
+        "pressure": 1004.7,
+        "timestamp": 1727440516.7117064
+    },
+    {
+        "temperature": 25.86,
+        "pressure": 996.7,
+        "timestamp": 1727440516.71171
+    },
+    {
+        "temperature": 22.05,
+        "pressure": 1007.27,
+        "timestamp": 1727440516.7117133
+    },
+    {
+        "temperature": 29.71,
+        "pressure": 1000.96,
+        "timestamp": 1727440516.711717
+    },
+    {
+        "temperature": 26.33,
+        "pressure": 1018.89,
+        "timestamp": 1727440516.7117205
+    },
+    {
+        "temperature": 25.39,
+        "pressure": 1004.19,
+        "timestamp": 1727440516.7117236
+    },
+    {
+        "temperature": 24.18,
+        "pressure": 990.08,
+        "timestamp": 1727440516.7117271
+    },
+    {
+        "temperature": 24.37,
+        "pressure": 1014.81,
+        "timestamp": 1727440516.7117333
+    },
+    {
+        "temperature": 21.48,
+        "pressure": 995.69,
+        "timestamp": 1727440516.711737
+    },
+    {
+        "temperature": 28.35,
+        "pressure": 1013.37,
+        "timestamp": 1727440516.7117498
+    },
+    {
+        "temperature": 24.8,
+        "pressure": 999.14,
+        "timestamp": 1727440516.7117534
+    },
+    {
+        "temperature": 24.86,
+        "pressure": 1006.55,
+        "timestamp": 1727440516.7117567
+    },
+    {
+        "temperature": 22.19,
+        "pressure": 998.64,
+        "timestamp": 1727440516.7117627
+    },
+    {
+        "temperature": 24.85,
+        "pressure": 1016.96,
+        "timestamp": 1727440516.7117662
+    },
+    {
+        "temperature": 20.73,
+        "pressure": 1001.21,
+        "timestamp": 1727440516.7117696
+    },
+    {
+        "temperature": 24.39,
+        "pressure": 996.7,
+        "timestamp": 1727440516.711773
+    },
+    {
+        "temperature": 21.91,
+        "pressure": 1006.71,
+        "timestamp": 1727440516.7117822
+    },
+    {
+        "temperature": 24.13,
+        "pressure": 1001.78,
+        "timestamp": 1727440516.711786
+    },
+    {
+        "temperature": 25.06,
+        "pressure": 992.54,
+        "timestamp": 1727440516.7117891
+    },
+    {
+        "temperature": 27.99,
+        "pressure": 1014.28,
+        "timestamp": 1727440516.7118063
+    },
+    {
+        "temperature": 21.42,
+        "pressure": 1008.96,
+        "timestamp": 1727440516.7118099
+    },
+    {
+        "temperature": 20.26,
+        "pressure": 1019.69,
+        "timestamp": 1727440516.7118132
+    },
+    {
+        "temperature": 21.89,
+        "pressure": 1013.46,
+        "timestamp": 1727440516.7118168
+    },
+    {
+        "temperature": 22.62,
+        "pressure": 1013.14,
+        "timestamp": 1727440516.7118208
+    },
+    {
+        "temperature": 28.94,
+        "pressure": 995.01,
+        "timestamp": 1727440516.7118247
+    },
+    {
+        "temperature": 25.51,
+        "pressure": 1003.78,
+        "timestamp": 1727440516.7118282
+    },
+    {
+        "temperature": 23.1,
+        "pressure": 1002.98,
+        "timestamp": 1727440516.7118318
+    },
+    {
+        "temperature": 25.78,
+        "pressure": 994.18,
+        "timestamp": 1727440516.7118351
+    },
+    {
+        "temperature": 25.89,
+        "pressure": 995.45,
+        "timestamp": 1727440516.7118387
+    },
+    {
+        "temperature": 22.32,
+        "pressure": 995.54,
+        "timestamp": 1727440516.7118423
+    },
+    {
+        "temperature": 24.47,
+        "pressure": 1005.11,
+        "timestamp": 1727440516.7118456
+    },
+    {
+        "temperature": 26.18,
+        "pressure": 1018.49,
+        "timestamp": 1727440516.711849
+    },
+    {
+        "temperature": 24.36,
+        "pressure": 1009.36,
+        "timestamp": 1727440516.7118526
+    },
+    {
+        "temperature": 28.49,
+        "pressure": 1014.09,
+        "timestamp": 1727440516.711856
+    },
+    {
+        "temperature": 26.04,
+        "pressure": 990.0,
+        "timestamp": 1727440516.7118592
+    },
+    {
+        "temperature": 21.63,
+        "pressure": 1002.01,
+        "timestamp": 1727440516.7118623
+    },
+    {
+        "temperature": 21.99,
+        "pressure": 1018.37,
+        "timestamp": 1727440516.7118657
+    },
+    {
+        "temperature": 22.52,
+        "pressure": 1009.88,
+        "timestamp": 1727440516.7118688
+    },
+    {
+        "temperature": 20.04,
+        "pressure": 1010.67,
+        "timestamp": 1727440516.7118714
+    },
+    {
+        "temperature": 28.68,
+        "pressure": 1005.85,
+        "timestamp": 1727440516.7118773
+    },
+    {
+        "temperature": 29.18,
+        "pressure": 1010.54,
+        "timestamp": 1727440516.7118804
+    },
+    {
+        "temperature": 22.37,
+        "pressure": 1004.07,
+        "timestamp": 1727440516.7118917
+    },
+    {
+        "temperature": 22.7,
+        "pressure": 1001.66,
+        "timestamp": 1727440516.7118948
+    },
+    {
+        "temperature": 24.3,
+        "pressure": 1014.32,
+        "timestamp": 1727440516.7118979
+    },
+    {
+        "temperature": 29.84,
+        "pressure": 1006.4,
+        "timestamp": 1727440516.7119036
+    },
+    {
+        "temperature": 29.61,
+        "pressure": 995.58,
+        "timestamp": 1727440516.711913
+    },
+    {
+        "temperature": 25.04,
+        "pressure": 1016.36,
+        "timestamp": 1727440516.7119164
+    },
+    {
+        "temperature": 21.81,
+        "pressure": 996.78,
+        "timestamp": 1727440516.7119195
+    },
+    {
+        "temperature": 20.4,
+        "pressure": 992.99,
+        "timestamp": 1727440516.711923
+    },
+    {
+        "temperature": 25.59,
+        "pressure": 1014.56,
+        "timestamp": 1727440516.711926
+    },
+    {
+        "temperature": 24.17,
+        "pressure": 1002.2,
+        "timestamp": 1727440516.711929
+    },
+    {
+        "temperature": 29.81,
+        "pressure": 1012.65,
+        "timestamp": 1727440516.7119322
+    },
+    {
+        "temperature": 26.46,
+        "pressure": 994.41,
+        "timestamp": 1727440516.7119355
+    },
+    {
+        "temperature": 26.23,
+        "pressure": 997.28,
+        "timestamp": 1727440516.7119384
+    },
+    {
+        "temperature": 26.49,
+        "pressure": 1012.31,
+        "timestamp": 1727440516.711942
+    },
+    {
+        "temperature": 28.44,
+        "pressure": 1004.29,
+        "timestamp": 1727440516.7119458
+    },
+    {
+        "temperature": 26.19,
+        "pressure": 992.89,
+        "timestamp": 1727440516.7119486
+    },
+    {
+        "temperature": 26.43,
+        "pressure": 1009.03,
+        "timestamp": 1727440516.7119546
+    },
+    {
+        "temperature": 26.75,
+        "pressure": 990.71,
+        "timestamp": 1727440516.7119577
+    },
+    {
+        "temperature": 24.08,
+        "pressure": 1003.21,
+        "timestamp": 1727440516.7119691
+    },
+    {
+        "temperature": 23.72,
+        "pressure": 993.9,
+        "timestamp": 1727440516.7119727
+    },
+    {
+        "temperature": 22.37,
+        "pressure": 1013.06,
+        "timestamp": 1727440516.711976
+    },
+    {
+        "temperature": 24.35,
+        "pressure": 1001.14,
+        "timestamp": 1727440516.7119796
+    },
+    {
+        "temperature": 20.88,
+        "pressure": 1001.58,
+        "timestamp": 1727440516.7119832
+    },
+    {
+        "temperature": 23.95,
+        "pressure": 1014.93,
+        "timestamp": 1727440516.7119865
+    },
+    {
+        "temperature": 23.09,
+        "pressure": 992.19,
+        "timestamp": 1727440516.7119896
+    },
+    {
+        "temperature": 28.11,
+        "pressure": 1011.68,
+        "timestamp": 1727440516.7119935
+    },
+    {
+        "temperature": 26.05,
+        "pressure": 997.25,
+        "timestamp": 1727440516.7119966
+    },
+    {
+        "temperature": 23.51,
+        "pressure": 1004.04,
+        "timestamp": 1727440516.712
+    },
+    {
+        "temperature": 25.05,
+        "pressure": 993.42,
+        "timestamp": 1727440516.7120032
+    },
+    {
+        "temperature": 23.53,
+        "pressure": 1014.86,
+        "timestamp": 1727440516.7120066
+    },
+    {
+        "temperature": 28.13,
+        "pressure": 998.15,
+        "timestamp": 1727440516.7120104
+    },
+    {
+        "temperature": 28.0,
+        "pressure": 1005.43,
+        "timestamp": 1727440516.7120142
+    },
+    {
+        "temperature": 25.2,
+        "pressure": 999.65,
+        "timestamp": 1727440516.7120237
+    },
+    {
+        "temperature": 25.84,
+        "pressure": 1018.63,
+        "timestamp": 1727440516.7120275
+    },
+    {
+        "temperature": 24.75,
+        "pressure": 1010.3,
+        "timestamp": 1727440516.7120311
+    },
+    {
+        "temperature": 21.93,
+        "pressure": 1004.6,
+        "timestamp": 1727440516.7120373
+    },
+    {
+        "temperature": 28.57,
+        "pressure": 997.81,
+        "timestamp": 1727440516.7120407
+    },
+    {
+        "temperature": 26.56,
+        "pressure": 994.3,
+        "timestamp": 1727440516.712044
+    },
+    {
+        "temperature": 21.27,
+        "pressure": 1005.68,
+        "timestamp": 1727440516.7120473
+    },
+    {
+        "temperature": 27.32,
+        "pressure": 1002.83,
+        "timestamp": 1727440516.712051
+    },
+    {
+        "temperature": 21.94,
+        "pressure": 1007.81,
+        "timestamp": 1727440516.7120543
+    },
+    {
+        "temperature": 26.69,
+        "pressure": 995.76,
+        "timestamp": 1727440516.7132022
+    },
+    {
+        "temperature": 27.21,
+        "pressure": 997.69,
+        "timestamp": 1727440516.7132106
+    },
+    {
+        "temperature": 29.57,
+        "pressure": 1015.34,
+        "timestamp": 1727440516.713214
+    },
+    {
+        "temperature": 23.22,
+        "pressure": 991.44,
+        "timestamp": 1727440516.7132175
+    },
+    {
+        "temperature": 26.05,
+        "pressure": 1000.24,
+        "timestamp": 1727440516.7132206
+    },
+    {
+        "temperature": 22.42,
+        "pressure": 990.46,
+        "timestamp": 1727440516.7132258
+    },
+    {
+        "temperature": 23.06,
+        "pressure": 1009.08,
+        "timestamp": 1727440516.7132285
+    },
+    {
+        "temperature": 22.14,
+        "pressure": 1004.4,
+        "timestamp": 1727440516.7132316
+    },
+    {
+        "temperature": 29.6,
+        "pressure": 998.57,
+        "timestamp": 1727440516.713235
+    },
+    {
+        "temperature": 28.55,
+        "pressure": 1012.37,
+        "timestamp": 1727440516.7132435
+    },
+    {
+        "temperature": 26.01,
+        "pressure": 1004.74,
+        "timestamp": 1727440516.7132468
+    },
+    {
+        "temperature": 28.35,
+        "pressure": 1008.63,
+        "timestamp": 1727440516.7132497
+    },
+    {
+        "temperature": 22.63,
+        "pressure": 991.14,
+        "timestamp": 1727440516.713255
+    },
+    {
+        "temperature": 29.9,
+        "pressure": 1007.94,
+        "timestamp": 1727440516.713258
+    },
+    {
+        "temperature": 28.27,
+        "pressure": 1017.02,
+        "timestamp": 1727440516.7132611
+    },
+    {
+        "temperature": 23.17,
+        "pressure": 1002.25,
+        "timestamp": 1727440516.7132642
+    },
+    {
+        "temperature": 26.18,
+        "pressure": 1010.27,
+        "timestamp": 1727440516.713267
+    },
+    {
+        "temperature": 23.25,
+        "pressure": 1008.15,
+        "timestamp": 1727440516.7132702
+    },
+    {
+        "temperature": 29.98,
+        "pressure": 1011.6,
+        "timestamp": 1727440516.7132735
+    },
+    {
+        "temperature": 20.14,
+        "pressure": 1007.69,
+        "timestamp": 1727440516.7132766
+    },
+    {
+        "temperature": 25.31,
+        "pressure": 1009.5,
+        "timestamp": 1727440516.7132957
+    },
+    {
+        "temperature": 25.08,
+        "pressure": 1011.82,
+        "timestamp": 1727440516.7133012
+    },
+    {
+        "temperature": 26.02,
+        "pressure": 1018.45,
+        "timestamp": 1727440516.7133043
+    },
+    {
+        "temperature": 20.95,
+        "pressure": 1012.13,
+        "timestamp": 1727440516.7133126
+    },
+    {
+        "temperature": 21.09,
+        "pressure": 996.4,
+        "timestamp": 1727440516.7133155
+    },
+    {
+        "temperature": 25.89,
+        "pressure": 1005.86,
+        "timestamp": 1727440516.7133188
+    },
+    {
+        "temperature": 21.73,
+        "pressure": 1010.27,
+        "timestamp": 1727440516.7133236
+    },
+    {
+        "temperature": 26.47,
+        "pressure": 1017.64,
+        "timestamp": 1727440516.7133322
+    },
+    {
+        "temperature": 20.99,
+        "pressure": 994.46,
+        "timestamp": 1727440516.7133353
+    },
+    {
+        "temperature": 26.44,
+        "pressure": 1019.16,
+        "timestamp": 1727440516.7133384
+    },
+    {
+        "temperature": 23.06,
+        "pressure": 1008.11,
+        "timestamp": 1727440516.7133412
+    },
+    {
+        "temperature": 29.54,
+        "pressure": 1012.34,
+        "timestamp": 1727440516.7133443
+    },
+    {
+        "temperature": 22.36,
+        "pressure": 996.66,
+        "timestamp": 1727440516.713347
+    },
+    {
+        "temperature": 27.57,
+        "pressure": 1008.04,
+        "timestamp": 1727440516.71335
+    },
+    {
+        "temperature": 25.44,
+        "pressure": 1006.11,
+        "timestamp": 1727440516.713353
+    },
+    {
+        "temperature": 21.61,
+        "pressure": 1008.59,
+        "timestamp": 1727440516.713356
+    },
+    {
+        "temperature": 24.8,
+        "pressure": 1017.15,
+        "timestamp": 1727440516.7133589
+    },
+    {
+        "temperature": 28.8,
+        "pressure": 1010.04,
+        "timestamp": 1727440516.7133625
+    },
+    {
+        "temperature": 29.86,
+        "pressure": 1017.3,
+        "timestamp": 1727440516.7133653
+    },
+    {
+        "temperature": 25.08,
+        "pressure": 1008.63,
+        "timestamp": 1727440516.7133684
+    },
+    {
+        "temperature": 21.03,
+        "pressure": 1017.83,
+        "timestamp": 1727440516.713371
+    },
+    {
+        "temperature": 28.72,
+        "pressure": 1006.93,
+        "timestamp": 1727440516.7133741
+    },
+    {
+        "temperature": 27.75,
+        "pressure": 1015.05,
+        "timestamp": 1727440516.7133772
+    },
+    {
+        "temperature": 25.86,
+        "pressure": 1005.72,
+        "timestamp": 1727440516.7133803
+    },
+    {
+        "temperature": 29.91,
+        "pressure": 1013.72,
+        "timestamp": 1727440516.7133834
+    },
+    {
+        "temperature": 29.62,
+        "pressure": 1000.65,
+        "timestamp": 1727440516.7133868
+    },
+    {
+        "temperature": 26.97,
+        "pressure": 998.53,
+        "timestamp": 1727440516.7133899
+    },
+    {
+        "temperature": 20.48,
+        "pressure": 1012.38,
+        "timestamp": 1727440516.713393
+    },
+    {
+        "temperature": 25.41,
+        "pressure": 1006.8,
+        "timestamp": 1727440516.713396
+    },
+    {
+        "temperature": 23.8,
+        "pressure": 1003.68,
+        "timestamp": 1727440516.7134037
+    },
+    {
+        "temperature": 25.92,
+        "pressure": 1013.31,
+        "timestamp": 1727440516.7134066
+    },
+    {
+        "temperature": 29.14,
+        "pressure": 1011.72,
+        "timestamp": 1727440516.7134104
+    },
+    {
+        "temperature": 26.34,
+        "pressure": 1001.73,
+        "timestamp": 1727440516.7134132
+    },
+    {
+        "temperature": 28.06,
+        "pressure": 1014.32,
+        "timestamp": 1727440516.7134163
+    },
+    {
+        "temperature": 28.79,
+        "pressure": 994.49,
+        "timestamp": 1727440516.7134192
+    },
+    {
+        "temperature": 26.79,
+        "pressure": 1006.94,
+        "timestamp": 1727440516.7134287
+    },
+    {
+        "temperature": 24.1,
+        "pressure": 1006.08,
+        "timestamp": 1727440516.7134316
+    },
+    {
+        "temperature": 26.62,
+        "pressure": 1017.33,
+        "timestamp": 1727440516.7134347
+    },
+    {
+        "temperature": 29.03,
+        "pressure": 1018.0,
+        "timestamp": 1727440516.7134402
+    },
+    {
+        "temperature": 25.78,
+        "pressure": 1001.6,
+        "timestamp": 1727440516.713444
+    },
+    {
+        "temperature": 24.47,
+        "pressure": 1014.15,
+        "timestamp": 1727440516.713447
+    },
+    {
+        "temperature": 21.57,
+        "pressure": 1012.21,
+        "timestamp": 1727440516.71345
+    },
+    {
+        "temperature": 23.83,
+        "pressure": 1000.36,
+        "timestamp": 1727440516.713453
+    },
+    {
+        "temperature": 28.43,
+        "pressure": 996.22,
+        "timestamp": 1727440516.7134562
+    },
+    {
+        "temperature": 22.24,
+        "pressure": 992.35,
+        "timestamp": 1727440516.7134597
+    },
+    {
+        "temperature": 21.62,
+        "pressure": 1014.95,
+        "timestamp": 1727440516.7134633
+    },
+    {
+        "temperature": 21.75,
+        "pressure": 1014.15,
+        "timestamp": 1727440516.713467
+    },
+    {
+        "temperature": 24.37,
+        "pressure": 997.2,
+        "timestamp": 1727440516.71347
+    },
+    {
+        "temperature": 24.71,
+        "pressure": 991.97,
+        "timestamp": 1727440516.7134733
+    },
+    {
+        "temperature": 27.97,
+        "pressure": 990.09,
+        "timestamp": 1727440516.7134771
+    },
+    {
+        "temperature": 23.65,
+        "pressure": 997.78,
+        "timestamp": 1727440516.7134807
+    },
+    {
+        "temperature": 28.62,
+        "pressure": 1014.41,
+        "timestamp": 1727440516.713484
+    },
+    {
+        "temperature": 24.49,
+        "pressure": 991.84,
+        "timestamp": 1727440516.7134879
+    },
+    {
+        "temperature": 23.25,
+        "pressure": 1000.05,
+        "timestamp": 1727440516.7134914
+    },
+    {
+        "temperature": 24.54,
+        "pressure": 1004.22,
+        "timestamp": 1727440516.7134945
+    },
+    {
+        "temperature": 22.87,
+        "pressure": 1007.32,
+        "timestamp": 1727440516.7134986
+    }
+]
