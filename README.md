@@ -3,9 +3,9 @@ TinyML, or Tiny Machine Learning, is a subset of machine learning that allows mo
 TinyML is important because it allows advanced machine learning functions to be performed on smaller devices. It has several advantages, including: 
 Low power consumption: TinyML algorithms can reduce the computational load and minimize data transfer, enabling energy-efficient operation. 
 Low latency: Data doesn't have to be sent to a server to run inference. 
-Low bandwidth: Less internet bandwidth is used because data doesn't have to be sent to the server constantly. 
-Some examples of TinyML applications include: highway deer detection for cars and audio-based mosquito detection. 
-TinyML can be challenging due to hardware constraints, such as limited memory resources and compiler and inference engine supp
+Low bandwidth: Less internet bandwidth is used because data doesn't have to be sent to the server constantly.  
+TinyML can be challenging due to hardware constraints, such as limited memory resources and compiler and inference engine support.
+In this project i am using raspberry pi 2 having 1gb of ram and tensorflowlite for low end embbded systems and IOT
 prediction of real time data from BMP280 sensor on raspberry pi 2  using RabbitMQ  and Linear Neural Network
 ![Screenshot 2024-10-07 094605](https://github.com/user-attachments/assets/3edc2afa-8a42-432f-94fe-855f3d0f2c1b)
 ![Screenshot 2024-10-07 094616](https://github.com/user-attachments/assets/e83151a5-0e09-4193-a7fd-259490831c10)
