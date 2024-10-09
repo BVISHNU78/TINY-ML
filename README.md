@@ -15,4 +15,4 @@ RabbitMQ is a message-queueing software also known as a message broker or queue 
 ![Screenshot 2024-10-07 095240](https://github.com/user-attachments/assets/6793882a-32ac-4069-9eb7-0f03385737cc)
 ![Screenshot 2024-10-07 095849](https://github.com/user-attachments/assets/7f305f86-f618-4bcc-8c43-5e4882cd315c)
 ![WhatsApp Image 2024-10-07 at 10 08 08 AM](https://github.com/user-attachments/assets/49122f06-2e37-41f1-af5a-898fbc4e7e2a)
-
+![gy-bme280-high-precision-atmospheric-pressure-humidity-and-temperature-sensor-module-spi-iic](https://github.com/user-attachments/assets/7ac2c0e7-468f-423e-b0b1-0a41687a2a1e)
