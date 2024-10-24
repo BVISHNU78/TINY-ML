@@ -38,7 +38,7 @@ test_loss =model.evaluate(x_test,y_test)
 model.summary()
 #model.save("regression.h5")
 print(f"Test Loss:{test_loss:4f}")
-new_dat= {"temperature": [29.023],"temperature ": [24.045]}
+new_dat= {"temperature": [29.023],"pressure ": [990.05]}
 new_data_scaled=pd.DataFrame(new_dat)
 predictions =model.predict(new_data_scaled)
 predictions=predictions.reshape(1,-1)
